@@ -1,0 +1,326 @@
+{
+  "1": {
+    "0": {"book": "Acts", "passage": "1:1-8"},
+    "1": {"book": "Acts", "passage": "1:12-17,21-26"},
+    "2": {"book": "Acts", "passage": "2:14-21"},
+    "3": {"book": "Acts", "passage": "2:22-36"},
+    "4": {"book": "Acts", "passage": "2:38-43"},
+    "5": {"book": "Acts", "passage": "3:1-8"},
+    "6": {"book": "Acts", "passage": "3:11-16"}
+  },
+  "2": {
+    "0": {"book": "Acts", "passage": "5:12-20"},
+    "1": {"book": "Acts", "passage": "3:19-26"},
+    "2": {"book": "Acts", "passage": "4:1-10"},
+    "3": {"book": "Acts", "passage": "4:13-22"},
+    "4": {"book": "Acts", "passage": "4:23-31"},
+    "5": {"book": "Acts", "passage": "5:1-11"},
+    "6": {"book": "Acts", "passage": "5:21-33"}
+  },
+  "3": {
+    "0": {"book": "Acts", "passage": "6:1-7"},
+    "1": {"book": "Acts", "passage": "6:8-7:5,47-60"},
+    "2": {"book": "Acts", "passage": "8:5-17"},
+    "3": {"book": "Acts", "passage": "8:18-25"},
+    "4": {"book": "Acts", "passage": "8:26-39"},
+    "5": {"book": "Acts", "passage": "8:40-9:19"},
+    "6": {"book": "Acts", "passage": "9:19-31"}
+  },
+  "4": {
+    "0": {"book": "Acts", "passage": "9:32-42"},
+    "1": {"book": "Acts", "passage": "10:1-16"},
+    "2": {"book": "Acts", "passage": "10:21-33"},
+    "3": {"book": "Acts", "passage": "10:34-43"},
+    "4": {"book": "Acts", "passage": "10:44-11:10"},
+    "5": {"book": "Acts", "passage": "11:19-26,29-30"},
+    "6": {"book": "Acts", "passage": "12:1-11"}
+  },
+  "5": {
+    "0": {"book": "Acts", "passage": "11:19-30"},
+    "1": {"book": "Acts", "passage": "12:12-17"},
+    "2": {"book": "Acts", "passage": "12:25-13:12"},
+    "3": {"book": "Acts", "passage": "13:13-24"},
+    "4": {"book": "Acts", "passage": "14:20-27"},
+    "5": {"book": "Acts", "passage": "15:5-34"},
+    "6": {"book": "Acts", "passage": "15:35-41"}
+  },
+  "6": {
+    "0": {"book": "Acts", "passage": "16:16-34"},
+    "1": {"book": "Acts", "passage": "17:1-15"},
+    "2": {"book": "Acts", "passage": "17:19-28"},
+    "3": {"book": "Acts", "passage": "18:22-28"},
+    "4": {"book": "Acts", "passage": "19:1-8"},
+    "5": {"book": "Acts", "passage": "20:7-12"},
+    "6": {"book": "Acts", "passage": "20:7-12"}
+  },
+  "7": {
+    "0": {"book": "Acts", "passage": "20:16-18,28-36"},
+    "1": {"book": "Acts", "passage": "21:8-14"},
+    "2": {"book": "Acts", "passage": "21:26-32"},
+    "3": {"book": "Acts", "passage": "23:1-11"},
+    "4": {"book": "Acts", "passage": "25:13-19"},
+    "5": {"book": "Acts", "passage": "27:1-28:1"},
+    "6": {"book": "Acts", "passage": "28:1-31"}
+  },
+  "8": {
+    "0": {"book": "Romans", "passage": "2:10-16"},
+    "1": {"book": "Romans", "passage": "2:28-3:18"},
+    "2": {"book": "Romans", "passage": "4:4-12"},
+    "3": {"book": "Romans", "passage": "4:13-25"},
+    "4": {"book": "Romans", "passage": "5:10-16"},
+    "5": {"book": "Romans", "passage": "5:17-6:2"},
+    "6": {"book": "Romans", "passage": "3:19-26"}
+  },
+  "9": {
+    "0": {"book": "Romans", "passage": "5:1-10"},
+    "1": {"book": "Romans", "passage": "7:1-13"},
+    "2": {"book": "Romans", "passage": "7:14-8:2"},
+    "3": {"book": "Romans", "passage": "8:2-13"},
+    "4": {"book": "Romans", "passage": "8:22-27"},
+    "5": {"book": "Romans", "passage": "9:6-19"},
+    "6": {"book": "Romans", "passage": "6:11-17"}
+  },
+  "10": {
+    "0": {"book": "Romans", "passage": "6:18-23"},
+    "1": {"book": "Romans", "passage": "9:18-33"},
+    "2": {"book": "Romans", "passage": "10:11-11:2"},
+    "3": {"book": "Romans", "passage": "11:2-12"},
+    "4": {"book": "Romans", "passage": "11:13-24"},
+    "5": {"book": "Romans", "passage": "11:25-36"},
+    "6": {"book": "Romans", "passage": "8:14-21"}
+  },
+  "11": {
+    "0": {"book": "Romans", "passage": "8:14-21"},
+    "1": {"book": "Romans", "passage": "12:4-5,15-21"},
+    "2": {"book": "Romans", "passage": "14:9-18"},
+    "3": {"book": "Romans", "passage": "15:7-16"},
+    "4": {"book": "Romans", "passage": "15:17-29"},
+    "5": {"book": "Romans", "passage": "16:1-16"},
+    "6": {"book": "Romans", "passage": "9:1-5"}
+  },
+  "12": {
+    "0": {"book": "1 Corinthians", "passage": "1:10-18"},
+    "1": {"book": "1 Corinthians", "passage": "2:9-3:8"},
+    "2": {"book": "1 Corinthians", "passage": "3:9-17"},
+    "3": {"book": "1 Corinthians", "passage": "4:5-8"},
+    "4": {"book": "1 Corinthians", "passage": "5:9-6:11"},
+    "5": {"book": "1 Corinthians", "passage": "7:24-35"},
+    "6": {"book": "1 Corinthians", "passage": "1:3-9"}
+  },
+  "13": {
+    "0": {"book": "1 Corinthians", "passage": "3:9-17"},
+    "1": {"book": "1 Corinthians", "passage": "9:13-18"},
+    "2": {"book": "1 Corinthians", "passage": "10:5-12"},
+    "3": {"book": "1 Corinthians", "passage": "10:12-22"},
+    "4": {"book": "1 Corinthians", "passage": "10:28-11:7"},
+    "5": {"book": "1 Corinthians", "passage": "11:8-22"},
+    "6": {"book": "1 Corinthians", "passage": "2:6-9"}
+  },
+  "14": {
+    "0": {"book": "1 Corinthians", "passage": "4:9-16"},
+    "1": {"book": "1 Corinthians", "passage": "11:31-12:6"},
+    "2": {"book": "1 Corinthians", "passage": "12:12-26"},
+    "3": {"book": "1 Corinthians", "passage": "13:4-14:5"},
+    "4": {"book": "1 Corinthians", "passage": "14:6-19"},
+    "5": {"book": "1 Corinthians", "passage": "14:26-40"},
+    "6": {"book": "1 Corinthians", "passage": "4:1-5"}
+  },
+  "15": {
+    "0": {"book": "2 Corinthians", "passage": "1:21-2:4"},
+    "1": {"book": "2 Corinthians", "passage": "2:3-15"},
+    "2": {"book": "2 Corinthians", "passage": "3:4-11"},
+    "3": {"book": "2 Corinthians", "passage": "4:1-6"},
+    "4": {"book": "2 Corinthians", "passage": "4:13-18"},
+    "5": {"book": "2 Corinthians", "passage": "5:1-10"},
+    "6": {"book": "2 Corinthians", "passage": "1:1-7"}
+  },
+  "16": {
+    "0": {"book": "2 Corinthians", "passage": "6:1-10"},
+    "1": {"book": "2 Corinthians", "passage": "5:10-15"},
+    "2": {"book": "2 Corinthians", "passage": "6:11-16"},
+    "3": {"book": "2 Corinthians", "passage": "7:1-10"},
+    "4": {"book": "2 Corinthians", "passage": "7:10-16"},
+    "5": {"book": "2 Corinthians", "passage": "8:1-5"},
+    "6": {"book": "2 Corinthians", "passage": "3:12-18"}
+  },
+  "17": {
+    "0": {"book": "2 Corinthians", "passage": "6:16-7:1"},
+    "1": {"book": "2 Corinthians", "passage": "8:7-15"},
+    "2": {"book": "2 Corinthians", "passage": "8:16-9:5"},
+    "3": {"book": "2 Corinthians", "passage": "9:12-10:7"},
+    "4": {"book": "2 Corinthians", "passage": "10:7-18"},
+    "5": {"book": "2 Corinthians", "passage": "11:5-21"},
+    "6": {"book": "2 Corinthians", "passage": "5:1-8"}
+  },
+  "18": {
+    "0": {"book": "2 Corinthians", "passage": "9:6-11"},
+    "1": {"book": "2 Corinthians", "passage": "12:10-19"},
+    "2": {"book": "2 Corinthians", "passage": "12:20-13:2"},
+    "3": {"book": "2 Corinthians", "passage": "13:3-13"},
+    "4": {"book": "Galatians", "passage": "1:1-10,20-2:5"},
+    "5": {"book": "Galatians", "passage": "2:6-10"},
+    "6": {"book": "1 Corinthians", "passage": "15:39-45"}
+  },
+  "19": {
+    "0": {"book": "Galatians", "passage": "1:11-19"},
+    "1": {"book": "Galatians", "passage": "2:11-16"},
+    "2": {"book": "Galatians", "passage": "2:21-3:7"},
+    "3": {"book": "Galatians", "passage": "3:15-22"},
+    "4": {"book": "Galatians", "passage": "3:23-4:5"},
+    "5": {"book": "Galatians", "passage": "4:8-21"},
+    "6": {"book": "1 Corinthians", "passage": "15:47-57"}
+  },
+  "20": {
+    "0": {"book": "Galatians", "passage": "2:16-20"},
+    "1": {"book": "Galatians", "passage": "4:28-5:10"},
+    "2": {"book": "Galatians", "passage": "5:11-21"},
+    "3": {"book": "Galatians", "passage": "6:2-10"},
+    "4": {"book": "Ephesians", "passage": "1:1-9"},
+    "5": {"book": "Ephesians", "passage": "1:7-17"},
+    "6": {"book": "2 Corinthians", "passage": "1:8-11"}
+  },
+  "21": {
+    "0": {"book": "Galatians", "passage": "6:11-18"},
+    "1": {"book": "Ephesians", "passage": "1:22-2:3"},
+    "2": {"book": "Ephesians", "passage": "2:19-3:7"},
+    "3": {"book": "Ephesians", "passage": "3:8-21"},
+    "4": {"book": "Ephesians", "passage": "4:14-19"},
+    "5": {"book": "Ephesians", "passage": "4:17-25"},
+    "6": {"book": "2 Corinthians", "passage": "3:4-11"}
+  },
+  "22": {
+    "0": {"book": "Ephesians", "passage": "2:4-10"},
+    "1": {"book": "Ephesians", "passage": "4:25-32"},
+    "2": {"book": "Ephesians", "passage": "5:20-26"},
+    "3": {"book": "Ephesians", "passage": "5:25-33"},
+    "4": {"book": "Ephesians", "passage": "5:33-6:9"},
+    "5": {"book": "Ephesians", "passage": "6:18-24"},
+    "6": {"book": "2 Corinthians", "passage": "5:1-8"}
+  },
+  "23": {
+    "0": {"book": "Ephesians", "passage": "2:14-22"},
+    "1": {"book": "Philippians", "passage": "1:1-7"},
+    "2": {"book": "Philippians", "passage": "1:8-14"},
+    "3": {"book": "Philippians", "passage": "1:12-20"},
+    "4": {"book": "Philippians", "passage": "1:20-27"},
+    "5": {"book": "Philippians", "passage": "1:27-2:4"},
+    "6": {"book": "2 Corinthians", "passage": "8:1-5"}
+  },
+  "24": {
+    "0": {"book": "Ephesians", "passage": "4:1-6"},
+    "1": {"book": "Philippians", "passage": "2:12-16"},
+    "2": {"book": "Philippians", "passage": "2:16-23"},
+    "3": {"book": "Philippians", "passage": "2:24-30"},
+    "4": {"book": "Philippians", "passage": "3:1-8"},
+    "5": {"book": "Philippians", "passage": "3:8-19"},
+    "6": {"book": "2 Corinthians", "passage": "11:1-6"}
+  },
+  "25": {
+    "0": {"book": "Ephesians", "passage": "4:1-6"},
+    "1": {"book": "Colossians", "passage": "1:1-2,7-11"},
+    "2": {"book": "Colossians", "passage": "1:18-23"},
+    "3": {"book": "Colossians", "passage": "1:24-29"},
+    "4": {"book": "Colossians", "passage": "2:1-7"},
+    "5": {"book": "Colossians", "passage": "2:8-12"},
+    "6": {"book": "Galatians", "passage": "1:3-10"}
+  },
+  "26": {
+    "0": {"book": "Ephesians", "passage": "5:8-19"},
+    "1": {"book": "Colossians", "passage": "2:13-20"},
+    "2": {"book": "Colossians", "passage": "3:1-11"},
+    "3": {"book": "Colossians", "passage": "3:12-16"},
+    "4": {"book": "Colossians", "passage": "3:17-4:1"},
+    "5": {"book": "Colossians", "passage": "4:2-9"},
+    "6": {"book": "Galatians", "passage": "3:8-12"}
+  },
+  "27": {
+    "0": {"book": "Ephesians", "passage": "6:10-17"},
+    "1": {"book": "1 Thessalonians", "passage": "1:1-5"},
+    "2": {"book": "1 Thessalonians", "passage": "1:6-10"},
+    "3": {"book": "1 Thessalonians", "passage": "2:1-8"},
+    "4": {"book": "1 Thessalonians", "passage": "2:9-14"},
+    "5": {"book": "1 Thessalonians", "passage": "2:14-19"},
+    "6": {"book": "Galatians", "passage": "5:22-6:2"}
+  },
+  "28": {
+    "0": {"book": "Colossians", "passage": "3:4-11"},
+    "1": {"book": "1 Thessalonians", "passage": "2:20-3:8"},
+    "2": {"book": "1 Thessalonians", "passage": "3:9-13"},
+    "3": {"book": "1 Thessalonians", "passage": "4:1-12"},
+    "4": {"book": "1 Thessalonians", "passage": "4:13-17"},
+    "5": {"book": "1 Thessalonians", "passage": "5:9-13,24-28"},
+    "6": {"book": "Ephesians", "passage": "1:16-23"}
+  },
+  "29": {
+    "0": {"book": "Colossians", "passage": "1:12-18"},
+    "1": {"book": "2 Thessalonians", "passage": "1:1-10"},
+    "2": {"book": "2 Thessalonians", "passage": "1:10-2:2"},
+    "3": {"book": "2 Thessalonians", "passage": "2:1-12"},
+    "4": {"book": "2 Thessalonians", "passage": "2:13-3:5"},
+    "5": {"book": "2 Thessalonians", "passage": "3:6-18"},
+    "6": {"book": "Ephesians", "passage": "2:11-13"}
+  },
+  "30": {
+    "0": {"book": "Colossians", "passage": "3:12-16"},
+    "1": {"book": "1 Timothy", "passage": "1:1-7"},
+    "2": {"book": "1 Timothy", "passage": "1:8-14"},
+    "3": {"book": "1 Timothy", "passage": "1:18-20,2:8-15"},
+    "4": {"book": "1 Timothy", "passage": "3:1-13"},
+    "5": {"book": "1 Timothy", "passage": "4:4-8,16"},
+    "6": {"book": "Ephesians", "passage": "5:1-8"}
+  },
+  "31": {
+    "0": {"book": "1 Timothy", "passage": "1:15-17"},
+    "1": {"book": "1 Timothy", "passage": "5:1-10"},
+    "2": {"book": "1 Timothy", "passage": "5:11-21"},
+    "3": {"book": "1 Timothy", "passage": "5:22-6:11"},
+    "4": {"book": "1 Timothy", "passage": "6:17-21"},
+    "5": {"book": "2 Timothy", "passage": "1:1-2,8-18"},
+    "6": {"book": "Ephesians", "passage": "6:10-17"}
+  },
+  "32": {
+    "0": {"book": "1 Timothy", "passage": "4:9-15"},
+    "1": {"book": "2 Timothy", "passage": "2:20-26"},
+    "2": {"book": "2 Timothy", "passage": "3:16-4:4"},
+    "3": {"book": "2 Timothy", "passage": "4:9-22"},
+    "4": {"book": "Titus", "passage": "1:5-2:1"},
+    "5": {"book": "Titus", "passage": "1:15-2:10"},
+    "6": {"book": "Galatians", "passage": "3:8-12"}
+  },
+  "33": {
+    "0": {"book": "Hebrews", "passage": "11:9-10,17-23,32-40"},
+    "1": {"book": "Titus", "passage": "3:1-7"},
+    "2": {"book": "Philemon", "passage": "1:1-25"},
+    "3": {"book": "Hebrews", "passage": "1:1-12"},
+    "4": {"book": "Hebrews", "passage": "2:2-10"},
+    "5": {"book": "Hebrews", "passage": "3:1-4"},
+    "6": {"book": "Ephesians", "passage": "1:16-23"}
+  },
+  "34": {
+    "0": {"book": "Hebrews", "passage": "11:24-26,32-12:2"},
+    "1": {"book": "Hebrews", "passage": "3:5-11,17-19"},
+    "2": {"book": "Hebrews", "passage": "4:1-13"},
+    "3": {"book": "Hebrews", "passage": "5:11-6:8"},
+    "4": {"book": "Hebrews", "passage": "7:1-6"},
+    "5": {"book": "Hebrews", "passage": "7:18-25"},
+    "6": {"book": "Ephesians", "passage": "2:11-13"}
+  },
+  "35": {
+    "0": {"book": "Hebrews", "passage": "13:17-21"},
+    "1": {"book": "Hebrews", "passage": "8:7-13"},
+    "2": {"book": "Hebrews", "passage": "9:8-10,15-23"},
+    "3": {"book": "Hebrews", "passage": "10:1-18"},
+    "4": {"book": "Hebrews", "passage": "10:35-11:7"},
+    "5": {"book": "Hebrews", "passage": "11:8,11-16"},
+    "6": {"book": "Ephesians", "passage": "5:1-8"}
+  },
+  "36": {
+    "0": {"book": "1 Timothy", "passage": "4:9-15"},
+    "1": {"book": "James", "passage": "1:1-18"},
+    "2": {"book": "James", "passage": "1:19-27"},
+    "3": {"book": "James", "passage": "2:1-13"},
+    "4": {"book": "James", "passage": "2:14-26"},
+    "5": {"book": "James", "passage": "3:1-10"},
+    "6": {"book": "Colossians", "passage": "1:3-6"}
+  }
+}

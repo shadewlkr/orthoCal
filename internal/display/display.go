@@ -135,6 +135,22 @@ func PrintDayInfo(info models.DayInfo) {
 	}
 	fmt.Println(emptyLine())
 
+	// Scripture Readings
+	if len(info.Readings) > 0 {
+		fmt.Println(divider())
+		fmt.Println(emptyLine())
+		fmt.Println(line(bold + "  📖 Scripture Readings" + reset))
+		for _, r := range info.Readings {
+			if r.Epistle != nil {
+				fmt.Println(line(blue + "    Epistle: " + r.Epistle.Book + " " + r.Epistle.Passage + reset))
+			}
+			if r.Gospel != nil {
+				fmt.Println(line(blue + "    Gospel:  " + r.Gospel.Book + " " + r.Gospel.Passage + reset))
+			}
+		}
+		fmt.Println(emptyLine())
+	}
+
 	// Quote
 	fmt.Println(divider())
 	fmt.Println(emptyLine())
@@ -222,7 +238,7 @@ func shortFastingLabel(level models.FastingLevel) string {
 }
 
 // PrintSimple prints a one-liner summary suitable for piping, shell prompts, or status bars.
-// Format: Thu Feb 5 | 🟠 Oil & Wine | St. Agatha
+// Format: Thu Feb 5 | 🟠 Oil & Wine | St. Agatha | Lk 6:17-23
 func PrintSimple(info models.DayInfo) {
 	_, icon := fastingStyle(info.FastingLevel)
 	label := shortFastingLabel(info.FastingLevel)
@@ -242,7 +258,50 @@ func PrintSimple(info models.DayInfo) {
 		parts = append(parts, info.Saints[0].Name)
 	}
 
+	// Append gospel citation
+	if len(info.Readings) > 0 && info.Readings[0].Gospel != nil {
+		g := info.Readings[0].Gospel
+		parts = append(parts, shortBookName(g.Book)+" "+g.Passage)
+	}
+
 	fmt.Println(strings.Join(parts, " | "))
+}
+
+// shortBookName returns abbreviated book names for compact display.
+func shortBookName(book string) string {
+	abbrevs := map[string]string{
+		"Matthew":         "Mt",
+		"Mark":            "Mk",
+		"Luke":            "Lk",
+		"John":            "Jn",
+		"Acts":            "Acts",
+		"Romans":          "Rom",
+		"1 Corinthians":   "1 Cor",
+		"2 Corinthians":   "2 Cor",
+		"Galatians":       "Gal",
+		"Ephesians":       "Eph",
+		"Philippians":     "Phil",
+		"Colossians":      "Col",
+		"1 Thessalonians": "1 Thess",
+		"2 Thessalonians": "2 Thess",
+		"1 Timothy":       "1 Tim",
+		"2 Timothy":       "2 Tim",
+		"Titus":           "Titus",
+		"Philemon":        "Phlm",
+		"Hebrews":         "Heb",
+		"James":           "Jas",
+		"1 Peter":         "1 Pet",
+		"2 Peter":         "2 Pet",
+		"1 John":          "1 Jn",
+		"2 John":          "2 Jn",
+		"3 John":          "3 Jn",
+		"Jude":            "Jude",
+		"Revelation":      "Rev",
+	}
+	if abbrev, ok := abbrevs[book]; ok {
+		return abbrev
+	}
+	return book
 }
 
 func wrapWords(words []string, maxWidth int) []string {

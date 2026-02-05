@@ -24,6 +24,7 @@ func (c *Calendar) GetDayInfo(date time.Time) models.DayInfo {
 	feasts := c.findFeasts(date, p)
 	saints := c.findSaints(date)
 	fastingLevel, fastingReason := ResolveFasting(date, p, c.data.FastingRules, feasts)
+	readings := ResolveReadings(date, p, c.data, feasts)
 	quote := c.selectQuote(date)
 
 	return models.DayInfo{
@@ -32,6 +33,7 @@ func (c *Calendar) GetDayInfo(date time.Time) models.DayInfo {
 		Saints:        saints,
 		FastingLevel:  fastingLevel,
 		FastingReason: fastingReason,
+		Readings:      readings,
 		Quote:         quote,
 	}
 }

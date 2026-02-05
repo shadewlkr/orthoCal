@@ -1,0 +1,169 @@
+{
+  "fixed": {
+    "1/1": {
+      "rank": "great",
+      "epistle": {"book": "Colossians", "passage": "2:8-12"},
+      "gospel": {"book": "Luke", "passage": "2:20-21,40-52"}
+    },
+    "1/6": {
+      "rank": "great",
+      "epistle": {"book": "Titus", "passage": "2:11-14,3:4-7"},
+      "gospel": {"book": "Matthew", "passage": "3:13-17"}
+    },
+    "1/7": {
+      "rank": "major",
+      "epistle": {"book": "Acts", "passage": "19:1-8"},
+      "gospel": {"book": "John", "passage": "1:29-34"}
+    },
+    "1/30": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "13:7-16"},
+      "gospel": {"book": "Matthew", "passage": "5:14-19"}
+    },
+    "2/2": {
+      "rank": "great",
+      "epistle": {"book": "Hebrews", "passage": "7:7-17"},
+      "gospel": {"book": "Luke", "passage": "2:22-40"}
+    },
+    "3/25": {
+      "rank": "great",
+      "epistle": {"book": "Hebrews", "passage": "2:11-18"},
+      "gospel": {"book": "Luke", "passage": "1:24-38"}
+    },
+    "5/21": {
+      "rank": "major",
+      "epistle": {"book": "Acts", "passage": "26:1-5,12-20"},
+      "gospel": {"book": "John", "passage": "10:1-9"}
+    },
+    "6/24": {
+      "rank": "major",
+      "epistle": {"book": "Romans", "passage": "13:11-14:4"},
+      "gospel": {"book": "Luke", "passage": "1:1-25,57-68,76,80"}
+    },
+    "6/29": {
+      "rank": "great",
+      "epistle": {"book": "2 Corinthians", "passage": "11:21-12:9"},
+      "gospel": {"book": "Matthew", "passage": "16:13-19"}
+    },
+    "6/30": {
+      "rank": "minor",
+      "epistle": {"book": "1 Corinthians", "passage": "4:9-16"},
+      "gospel": {"book": "Matthew", "passage": "9:36-10:8"}
+    },
+    "8/6": {
+      "rank": "great",
+      "epistle": {"book": "2 Peter", "passage": "1:10-19"},
+      "gospel": {"book": "Matthew", "passage": "17:1-9"}
+    },
+    "8/15": {
+      "rank": "great",
+      "epistle": {"book": "Philippians", "passage": "2:5-11"},
+      "gospel": {"book": "Luke", "passage": "10:38-42,11:27-28"}
+    },
+    "8/29": {
+      "rank": "great",
+      "epistle": {"book": "Acts", "passage": "13:25-32"},
+      "gospel": {"book": "Mark", "passage": "6:14-30"}
+    },
+    "9/1": {
+      "rank": "minor",
+      "epistle": {"book": "1 Timothy", "passage": "2:1-7"},
+      "gospel": {"book": "Luke", "passage": "4:16-22"}
+    },
+    "9/8": {
+      "rank": "great",
+      "epistle": {"book": "Philippians", "passage": "2:5-11"},
+      "gospel": {"book": "Luke", "passage": "10:38-42,11:27-28"}
+    },
+    "9/14": {
+      "rank": "great",
+      "epistle": {"book": "1 Corinthians", "passage": "1:18-24"},
+      "gospel": {"book": "John", "passage": "19:6-11,13-20,25-28,30-35"}
+    },
+    "10/28": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "9:1-7"},
+      "gospel": {"book": "Luke", "passage": "10:38-42,11:27-28"}
+    },
+    "11/8": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "2:2-10"},
+      "gospel": {"book": "Luke", "passage": "10:16-21"}
+    },
+    "11/21": {
+      "rank": "great",
+      "epistle": {"book": "Hebrews", "passage": "9:1-7"},
+      "gospel": {"book": "Luke", "passage": "10:38-42,11:27-28"}
+    },
+    "12/6": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "13:17-21"},
+      "gospel": {"book": "Luke", "passage": "6:17-23"}
+    },
+    "12/25": {
+      "rank": "great",
+      "epistle": {"book": "Galatians", "passage": "4:4-7"},
+      "gospel": {"book": "Matthew", "passage": "2:1-12"}
+    },
+    "12/26": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "2:11-18"},
+      "gospel": {"book": "Matthew", "passage": "2:13-23"}
+    }
+  },
+  "moveable": {
+    "-49": {
+      "rank": "minor",
+      "gospel": {"book": "Matthew", "passage": "6:14-21"}
+    },
+    "-48": {
+      "rank": "major",
+      "gospel": {"book": "Luke", "passage": "18:10-14"}
+    },
+    "-42": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "11:24-26,32-12:2"},
+      "gospel": {"book": "John", "passage": "1:43-51"}
+    },
+    "-8": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "12:28-13:8"},
+      "gospel": {"book": "John", "passage": "11:1-45"}
+    },
+    "-7": {
+      "rank": "great",
+      "epistle": {"book": "Philippians", "passage": "4:4-9"},
+      "gospel": {"book": "John", "passage": "12:1-18"}
+    },
+    "-2": {
+      "rank": "great",
+      "epistle": {"book": "1 Corinthians", "passage": "1:18-2:2"},
+      "gospel": {"book": "Matthew", "passage": "27:1-38,39-44,45-54,55-61"}
+    },
+    "-1": {
+      "rank": "great",
+      "epistle": {"book": "Romans", "passage": "6:3-11"},
+      "gospel": {"book": "Matthew", "passage": "28:1-20"}
+    },
+    "0": {
+      "rank": "great",
+      "epistle": {"book": "Acts", "passage": "1:1-8"},
+      "gospel": {"book": "John", "passage": "1:1-17"}
+    },
+    "39": {
+      "rank": "great",
+      "epistle": {"book": "Acts", "passage": "1:1-12"},
+      "gospel": {"book": "Luke", "passage": "24:36-53"}
+    },
+    "49": {
+      "rank": "great",
+      "epistle": {"book": "Acts", "passage": "2:1-11"},
+      "gospel": {"book": "John", "passage": "7:37-52,8:12"}
+    },
+    "56": {
+      "rank": "major",
+      "epistle": {"book": "Hebrews", "passage": "11:33-12:2"},
+      "gospel": {"book": "Matthew", "passage": "10:32-33,37-38,19:27-30"}
+    }
+  }
+}
