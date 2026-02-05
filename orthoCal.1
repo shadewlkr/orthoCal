@@ -1,0 +1,113 @@
+.TH ORTHOCAL 1 "February 2026" "orthoCal 1.0" "User Commands"
+.SH NAME
+orthoCal \- Greek Orthodox liturgical calendar
+.SH SYNOPSIS
+.B orthoCal
+[\fB\-date\fR \fIYYYY-MM-DD\fR]
+[\fB\-simple\fR]
+[\fB\-month\fR]
+.SH DESCRIPTION
+.B orthoCal
+displays Greek Orthodox liturgical information for a given date, including
+fasting rules, feast days, commemorated saints, daily scripture readings
+(Epistle and Gospel), and quotes from the Church Fathers.
+.PP
+All liturgical data is embedded in the binary and computed algorithmically,
+requiring no network access or external dependencies.
+.SH OPTIONS
+.TP
+.BR \-date " " \fIYYYY-MM-DD\fR
+Display information for the specified date. Defaults to today if not provided.
+.TP
+.BR \-simple
+Output a single line suitable for shell prompts, status bars, or piping.
+Format: "Day Mon DD | Icon Fast | Feast/Saint | Gospel"
+.TP
+.BR \-month
+Display a monthly calendar grid showing fasting levels and feasts for each day.
+.SH OUTPUT
+The default output is a formatted box containing:
+.TP
+.B Date
+The current or specified date.
+.TP
+.B Feasts
+Any great, major, or minor feast days, with Greek names where available.
+.TP
+.B Saints
+Saints commemorated on this date.
+.TP
+.B Fasting
+The fasting level with a description and the reason (e.g., "Great Lent").
+Levels are indicated by colored icons:
+.RS
+.IP \(bu 2
+Red circle: Strict fast (no meat, dairy, fish, oil, or wine)
+.IP \(bu 2
+Orange circle: Oil and wine permitted
+.IP \(bu 2
+Yellow circle: Fish permitted
+.IP \(bu 2
+Green circle: No fasting
+.RE
+.TP
+.B Scripture Readings
+Daily Epistle and Gospel citations from the Orthodox lectionary.
+.TP
+.B Quote
+A daily quote from the Church Fathers or saints.
+.SH EXAMPLES
+Display today's liturgical information:
+.PP
+.RS
+.nf
+orthoCal
+.fi
+.RE
+.PP
+Display information for Pascha 2026:
+.PP
+.RS
+.nf
+orthoCal -date 2026-04-12
+.fi
+.RE
+.PP
+One-liner for a shell prompt:
+.PP
+.RS
+.nf
+orthoCal --simple
+.fi
+.RE
+.PP
+Show April 2026 calendar:
+.PP
+.RS
+.nf
+orthoCal --month -date 2026-04-01
+.fi
+.RE
+.SH LECTIONARY
+Scripture readings follow the Orthodox lectionary cycle:
+.IP \(bu 2
+Paschal season (Pascha to Pentecost): Gospel of John
+.IP \(bu 2
+After Pentecost: Matthew, then Luke with Lukan Jump computation
+.IP \(bu 2
+Great Lent weekdays: Gospel of Mark
+.IP \(bu 2
+Feast days override or supplement the regular cycle
+.SH FILES
+All data is embedded in the binary. No external files are required.
+.SH EXIT STATUS
+.TP
+.B 0
+Success
+.TP
+.B 1
+Invalid arguments or data loading error
+.SH AUTHOR
+Written with assistance from Claude.
+.SH COPYRIGHT
+MIT License
