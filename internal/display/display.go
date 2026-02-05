@@ -203,6 +203,48 @@ func printWrappedQuote(q models.Quote) {
 	fmt.Println(emptyLine())
 }
 
+// shortFastingLabel returns a short plain-text label for the fasting level.
+func shortFastingLabel(level models.FastingLevel) string {
+	switch level {
+	case models.FastingStrict:
+		return "Strict"
+	case models.FastingOilWine:
+		return "Oil & Wine"
+	case models.FastingFish:
+		return "Fish"
+	case models.FastingDairyFish:
+		return "Dairy & Fish"
+	case models.FastingNone:
+		return "No Fast"
+	default:
+		return "Unknown"
+	}
+}
+
+// PrintSimple prints a one-liner summary suitable for piping, shell prompts, or status bars.
+// Format: Thu Feb 5 | 🟠 Oil & Wine | St. Agatha
+func PrintSimple(info models.DayInfo) {
+	_, icon := fastingStyle(info.FastingLevel)
+	label := shortFastingLabel(info.FastingLevel)
+
+	parts := []string{
+		info.Date.Format("Mon Jan 2"),
+		icon + " " + label,
+	}
+
+	if len(info.Feasts) > 0 {
+		names := make([]string, len(info.Feasts))
+		for i, f := range info.Feasts {
+			names[i] = "✦ " + f.Name
+		}
+		parts = append(parts, strings.Join(names, ", "))
+	} else if len(info.Saints) > 0 {
+		parts = append(parts, info.Saints[0].Name)
+	}
+
+	fmt.Println(strings.Join(parts, " | "))
+}
+
 func wrapWords(words []string, maxWidth int) []string {
 	var lines []string
 	current := words[0]
