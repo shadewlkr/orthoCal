@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sunday of the Publican and the Pharisee",
+    "greek_name": "Τελώνου και Φαρισαίου",
+    "description": "Beginning of the Triodion period",
+    "rank": "minor",
+    "pascha_offset": -70
+  },
+  {
+    "name": "Sunday of the Prodigal Son",
+    "greek_name": "Του Ασώτου",
+    "description": "Parable of the Prodigal Son",
+    "rank": "minor",
+    "pascha_offset": -63
+  },
+  {
+    "name": "Meatfare Sunday (Last Judgment)",
+    "greek_name": "Της Απόκρεω",
+    "description": "Last day of meat before Pascha",
+    "rank": "minor",
+    "pascha_offset": -56
+  },
+  {
+    "name": "Cheesefare Sunday (Forgiveness Sunday)",
+    "greek_name": "Της Τυρινής",
+    "description": "Last day of dairy before Great Lent; Forgiveness Vespers",
+    "rank": "minor",
+    "pascha_offset": -49
+  },
+  {
+    "name": "Clean Monday",
+    "greek_name": "Καθαρά Δευτέρα",
+    "description": "First day of Great Lent",
+    "rank": "major",
+    "pascha_offset": -48
+  },
+  {
+    "name": "Sunday of Orthodoxy",
+    "greek_name": "Κυριακή της Ορθοδοξίας",
+    "description": "Triumph of Orthodoxy over iconoclasm",
+    "rank": "major",
+    "pascha_offset": -42
+  },
+  {
+    "name": "Annunciation of the Theotokos",
+    "greek_name": "Ευαγγελισμός",
+    "rank": "great",
+    "pascha_offset": null
+  },
+  {
+    "name": "Saturday of Lazarus",
+    "greek_name": "Σάββατον του Λαζάρου",
+    "description": "The raising of Lazarus from the dead",
+    "rank": "major",
+    "pascha_offset": -8,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Palm Sunday (Entry into Jerusalem)",
+    "greek_name": "Κυριακή των Βαΐων",
+    "description": "The triumphal entry of our Lord into Jerusalem",
+    "rank": "great",
+    "pascha_offset": -7,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Holy (Great) Friday",
+    "greek_name": "Μεγάλη Παρασκευή",
+    "description": "The crucifixion and burial of our Lord",
+    "rank": "great",
+    "pascha_offset": -2
+  },
+  {
+    "name": "Holy (Great) Saturday",
+    "greek_name": "Μέγα Σάββατον",
+    "description": "The descent of our Lord into Hades",
+    "rank": "great",
+    "pascha_offset": -1
+  },
+  {
+    "name": "Pascha (Resurrection of Christ)",
+    "greek_name": "Πάσχα",
+    "description": "The Resurrection of our Lord Jesus Christ — the Feast of Feasts",
+    "rank": "great",
+    "pascha_offset": 0,
+    "fasting_override": "none"
+  },
+  {
+    "name": "Ascension of Christ",
+    "greek_name": "Ανάληψις",
+    "description": "The ascension of our Lord into heaven, forty days after Pascha",
+    "rank": "great",
+    "pascha_offset": 39
+  },
+  {
+    "name": "Pentecost (Descent of the Holy Spirit)",
+    "greek_name": "Πεντηκοστή",
+    "description": "The descent of the Holy Spirit upon the Apostles",
+    "rank": "great",
+    "pascha_offset": 49,
+    "fasting_override": "none"
+  },
+  {
+    "name": "All Saints Sunday",
+    "greek_name": "Αγίων Πάντων",
+    "description": "The Sunday of All Saints",
+    "rank": "major",
+    "pascha_offset": 56
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Circumcision of Christ / St. Basil the Great",
+    "greek_name": "Περιτομή του Χριστού",
+    "description": "The circumcision of our Lord and the feast of St. Basil the Great",
+    "rank": "great",
+    "month": 1,
+    "day": 1
+  },
+  {
+    "name": "Theophany (Baptism of Christ)",
+    "greek_name": "Θεοφάνεια",
+    "description": "The baptism of our Lord Jesus Christ in the Jordan River",
+    "rank": "great",
+    "month": 1,
+    "day": 6,
+    "fasting_override": "none"
+  },
+  {
+    "name": "Synaxis of St. John the Baptist",
+    "greek_name": "Σύναξις του Τιμίου Προδρόμου",
+    "description": "The gathering in honor of St. John the Baptist, the day after Theophany",
+    "rank": "major",
+    "month": 1,
+    "day": 7
+  },
+  {
+    "name": "The Three Holy Hierarchs",
+    "greek_name": "Τριών Ιεραρχών",
+    "description": "Joint feast of Basil the Great, Gregory the Theologian, and John Chrysostom",
+    "rank": "major",
+    "month": 1,
+    "day": 30
+  },
+  {
+    "name": "Presentation of Christ in the Temple",
+    "greek_name": "Υπαπαντή του Κυρίου",
+    "description": "The meeting of our Lord in the Temple by Simeon and Anna",
+    "rank": "great",
+    "month": 2,
+    "day": 2,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Annunciation of the Theotokos",
+    "greek_name": "Ευαγγελισμός της Θεοτόκου",
+    "description": "The announcement by Archangel Gabriel to the Virgin Mary",
+    "rank": "great",
+    "month": 3,
+    "day": 25,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Synaxis of the Archangel Gabriel",
+    "greek_name": "Σύναξις του Αρχαγγέλου Γαβριήλ",
+    "description": "The gathering in honor of the Archangel Gabriel, the day after Annunciation",
+    "rank": "minor",
+    "month": 3,
+    "day": 26
+  },
+  {
+    "name": "Mid-Pentecost",
+    "greek_name": "Μεσοπεντηκοστή",
+    "description": "The midpoint between Pascha and Pentecost",
+    "rank": "minor",
+    "month": 5,
+    "day": 8
+  },
+  {
+    "name": "Sts. Constantine and Helen",
+    "greek_name": "Κωνσταντίνου και Ελένης",
+    "description": "The Equal-to-the-Apostles Emperor Constantine and his mother Helen",
+    "rank": "major",
+    "month": 5,
+    "day": 21
+  },
+  {
+    "name": "Nativity of St. John the Baptist",
+    "greek_name": "Γενέθλιον του Προδρόμου",
+    "description": "The birth of the Holy Prophet and Forerunner John the Baptist",
+    "rank": "major",
+    "month": 6,
+    "day": 24
+  },
+  {
+    "name": "Holy Apostles Peter and Paul",
+    "greek_name": "Πέτρου και Παύλου",
+    "description": "The feast of the preeminent Apostles Peter and Paul",
+    "rank": "great",
+    "month": 6,
+    "day": 29,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Synaxis of the Holy Twelve Apostles",
+    "greek_name": "Σύναξις των Δώδεκα Αποστόλων",
+    "description": "The gathering in honor of the Twelve Apostles, the day after Peter and Paul",
+    "rank": "minor",
+    "month": 6,
+    "day": 30
+  },
+  {
+    "name": "Procession of the Precious Cross",
+    "greek_name": "Πρόοδος Τιμίου Σταυρού",
+    "description": "The procession of the precious wood of the Cross; beginning of the Dormition Fast",
+    "rank": "minor",
+    "month": 8,
+    "day": 1
+  },
+  {
+    "name": "Transfiguration of Christ",
+    "greek_name": "Μεταμόρφωσις του Σωτήρος",
+    "description": "The transfiguration of our Lord on Mount Tabor",
+    "rank": "great",
+    "month": 8,
+    "day": 6,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Dormition of the Theotokos",
+    "greek_name": "Κοίμησις της Θεοτόκου",
+    "description": "The falling-asleep of the Most Holy Theotokos",
+    "rank": "great",
+    "month": 8,
+    "day": 15,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Beheading of St. John the Baptist",
+    "greek_name": "Αποτομή Κεφαλής Προδρόμου",
+    "description": "The beheading of the Holy Prophet and Forerunner John the Baptist",
+    "rank": "great",
+    "month": 8,
+    "day": 29,
+    "fasting_override": "strict"
+  },
+  {
+    "name": "Placing of the Sash of the Theotokos",
+    "greek_name": "Κατάθεσις Τιμίας Ζώνης",
+    "description": "The placing of the honorable sash of the Most Holy Theotokos",
+    "rank": "minor",
+    "month": 8,
+    "day": 31
+  },
+  {
+    "name": "Ecclesiastical New Year (Indiction)",
+    "greek_name": "Αρχή της Ινδίκτου",
+    "description": "The beginning of the Church liturgical year",
+    "rank": "minor",
+    "month": 9,
+    "day": 1
+  },
+  {
+    "name": "Nativity of the Theotokos",
+    "greek_name": "Γενέθλιον της Θεοτόκου",
+    "description": "The birth of the Most Holy Theotokos",
+    "rank": "great",
+    "month": 9,
+    "day": 8
+  },
+  {
+    "name": "Elevation of the Holy Cross",
+    "greek_name": "Ύψωσις του Τιμίου Σταυρού",
+    "description": "The universal elevation of the precious and life-giving Cross",
+    "rank": "great",
+    "month": 9,
+    "day": 14,
+    "fasting_override": "strict"
+  },
+  {
+    "name": "Conception of St. John the Baptist",
+    "greek_name": "Σύλληψις του Τιμίου Προδρόμου",
+    "description": "The conception of the Holy Prophet and Forerunner John the Baptist",
+    "rank": "minor",
+    "month": 9,
+    "day": 23
+  },
+  {
+    "name": "Protection of the Theotokos",
+    "greek_name": "Αγία Σκέπη",
+    "description": "The protection (covering) of the Most Holy Theotokos",
+    "rank": "major",
+    "month": 10,
+    "day": 28
+  },
+  {
+    "name": "Synaxis of the Archangel Michael and All Bodiless Powers",
+    "greek_name": "Σύναξις Αρχαγγέλου Μιχαήλ",
+    "description": "The feast of the Archangel Michael and all the heavenly bodiless powers",
+    "rank": "major",
+    "month": 11,
+    "day": 8
+  },
+  {
+    "name": "Entrance of the Theotokos into the Temple",
+    "greek_name": "Εισόδια της Θεοτόκου",
+    "description": "The entry of the Most Holy Theotokos into the Temple",
+    "rank": "great",
+    "month": 11,
+    "day": 21,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "St. Nicholas the Wonderworker",
+    "greek_name": "Αγίου Νικολάου",
+    "description": "The feast of St. Nicholas, Archbishop of Myra",
+    "rank": "major",
+    "month": 12,
+    "day": 6,
+    "fasting_override": "fish"
+  },
+  {
+    "name": "Conception of the Theotokos by St. Anna",
+    "greek_name": "Σύλληψις της Αγίας Άννης",
+    "description": "The conception of the Most Holy Theotokos by her mother St. Anna",
+    "rank": "minor",
+    "month": 12,
+    "day": 9
+  },
+  {
+    "name": "Nativity of Christ (Christmas)",
+    "greek_name": "Χριστούγεννα",
+    "description": "The birth in the flesh of our Lord Jesus Christ",
+    "rank": "great",
+    "month": 12,
+    "day": 25,
+    "fasting_override": "none"
+  },
+  {
+    "name": "Synaxis of the Theotokos",
+    "greek_name": "Σύναξις της Θεοτόκου",
+    "description": "The gathering in honor of the Most Holy Theotokos, the day after Nativity",
+    "rank": "major",
+    "month": 12,
+    "day": 26
+  }
+]

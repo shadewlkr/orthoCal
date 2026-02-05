@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Bright Week",
+    "level": "none",
+    "priority": 90,
+    "pascha_offset_start": 0,
+    "pascha_offset_end": 6,
+    "description": "Fast-free week following Pascha"
+  },
+  {
+    "name": "Christmas to Theophany Eve",
+    "level": "none",
+    "priority": 80,
+    "fixed_start_month": 12,
+    "fixed_start_day": 25,
+    "fixed_end_month": 1,
+    "fixed_end_day": 4,
+    "description": "Fast-free period from Nativity to Theophany Eve"
+  },
+  {
+    "name": "Pentecost Week",
+    "level": "none",
+    "priority": 70,
+    "pascha_offset_start": 50,
+    "pascha_offset_end": 55,
+    "description": "Fast-free week following Pentecost"
+  },
+  {
+    "name": "Week of the Publican and Pharisee",
+    "level": "none",
+    "priority": 60,
+    "pascha_offset_start": -69,
+    "pascha_offset_end": -63,
+    "description": "Fast-free week before the Triodion"
+  },
+  {
+    "name": "Cheesefare Week",
+    "level": "dairy_fish",
+    "priority": 50,
+    "pascha_offset_start": -55,
+    "pascha_offset_end": -49,
+    "description": "No meat; dairy and fish permitted"
+  },
+  {
+    "name": "Holy Week",
+    "level": "strict",
+    "priority": 40,
+    "pascha_offset_start": -6,
+    "pascha_offset_end": -1,
+    "description": "Strict fasting during Holy Week"
+  },
+  {
+    "name": "Great Lent",
+    "level": "strict",
+    "priority": 30,
+    "pascha_offset_start": -48,
+    "pascha_offset_end": -7,
+    "weekday_overrides": [
+      {"weekday": 6, "level": "oil_wine"},
+      {"weekday": 0, "level": "oil_wine"}
+    ],
+    "description": "Great Lent — strict fast on weekdays, oil and wine on weekends"
+  },
+  {
+    "name": "Dormition Fast",
+    "level": "strict",
+    "priority": 25,
+    "fixed_start_month": 8,
+    "fixed_start_day": 1,
+    "fixed_end_month": 8,
+    "fixed_end_day": 14,
+    "weekday_overrides": [
+      {"weekday": 6, "level": "oil_wine"},
+      {"weekday": 0, "level": "oil_wine"}
+    ],
+    "description": "Dormition Fast — strict on weekdays, oil and wine on weekends"
+  },
+  {
+    "name": "Nativity Fast",
+    "level": "fish",
+    "priority": 20,
+    "fixed_start_month": 11,
+    "fixed_start_day": 15,
+    "fixed_end_month": 12,
+    "fixed_end_day": 24,
+    "weekday_overrides": [
+      {"weekday": 3, "level": "oil_wine"},
+      {"weekday": 5, "level": "oil_wine"}
+    ],
+    "description": "Nativity Fast — fish on most days, oil/wine on Wed/Fri"
+  },
+  {
+    "name": "Apostles' Fast",
+    "level": "fish",
+    "priority": 20,
+    "pascha_offset_start": 57,
+    "fixed_end_month": 6,
+    "fixed_end_day": 28,
+    "weekday_overrides": [
+      {"weekday": 3, "level": "oil_wine"},
+      {"weekday": 5, "level": "oil_wine"}
+    ],
+    "description": "Apostles' Fast — from All Saints Monday to the eve of Sts. Peter and Paul"
+  },
+  {
+    "name": "Wednesday and Friday",
+    "level": "oil_wine",
+    "priority": 10,
+    "weekday_only": 3,
+    "description": "Regular Wednesday fast"
+  },
+  {
+    "name": "Wednesday and Friday",
+    "level": "oil_wine",
+    "priority": 10,
+    "weekday_only": 5,
+    "description": "Regular Friday fast"
+  }
+]
