@@ -14,6 +14,27 @@
     "day": 2
   },
   {
+    "name": "Prophet Malachi",
+    "title": "Prophet",
+    "description": "Last of the twelve minor prophets who prophesied the coming of the Forerunner and the Messiah",
+    "month": 1,
+    "day": 3
+  },
+  {
+    "name": "Synaxis of the Seventy Apostles",
+    "title": "Apostles",
+    "description": "Collective feast honoring the seventy disciples sent out by Christ to preach the Gospel",
+    "month": 1,
+    "day": 4
+  },
+  {
+    "name": "St. Theopemptos and St. Theonas",
+    "title": "Martyrs",
+    "description": "Two Egyptian martyrs who suffered under the emperor Diocletian for their faith in Christ",
+    "month": 1,
+    "day": 5
+  },
+  {
     "name": "Synaxis of St. John the Baptist",
     "title": "Prophet, Forerunner of the Lord",
     "description": "Celebrated the day after Theophany in honor of the one who baptized Christ",
@@ -26,6 +47,20 @@
     "description": "Virgin martyr who suffered under the emperor Diocletian",
     "month": 1,
     "day": 7
+  },
+  {
+    "name": "St. George the Chozebite",
+    "title": "Venerable",
+    "description": "Palestinian monastic who served in the monastery of Chozeba near Jericho",
+    "month": 1,
+    "day": 8
+  },
+  {
+    "name": "St. Polyeuktos the Martyr",
+    "title": "Martyr",
+    "description": "Roman officer martyred in Melitene, Armenia for destroying pagan idols and confessing Christ",
+    "month": 1,
+    "day": 9
   },
   {
     "name": "St. Gregory of Nyssa",
@@ -42,11 +77,39 @@
     "day": 11
   },
   {
+    "name": "St. Tatiana of Rome",
+    "title": "Martyr",
+    "description": "Deaconess martyred in Rome under the emperor Alexander Severus, patroness of students",
+    "month": 1,
+    "day": 12
+  },
+  {
+    "name": "St. Hermylos and St. Stratonikos",
+    "title": "Martyrs",
+    "description": "Deacon and jailer who were martyred together after Stratonikos was converted by Hermylos",
+    "month": 1,
+    "day": 13
+  },
+  {
     "name": "St. Nina Equal-to-the-Apostles",
     "title": "Enlightener of Georgia",
     "description": "Brought Christianity to the nation of Georgia in the fourth century",
     "month": 1,
     "day": 14
+  },
+  {
+    "name": "St. Paul of Thebes",
+    "title": "First Hermit",
+    "description": "First Christian hermit who lived alone in the Egyptian desert for ninety years",
+    "month": 1,
+    "day": 15
+  },
+  {
+    "name": "Veneration of the Precious Chains of the Apostle Peter",
+    "title": "Apostle",
+    "description": "Commemoration of the chains that bound St. Peter in Jerusalem and Rome",
+    "month": 1,
+    "day": 16
   },
   {
     "name": "St. Anthony the Great",
@@ -70,11 +133,25 @@
     "day": 18
   },
   {
+    "name": "St. Makarios the Great",
+    "title": "Venerable",
+    "description": "Great Egyptian desert father, renowned for his wisdom and spiritual gifts",
+    "month": 1,
+    "day": 19
+  },
+  {
     "name": "St. Euthymius the Great",
     "title": "Abbot",
     "description": "Great Palestinian monastic father who guided many in the spiritual life",
     "month": 1,
     "day": 20
+  },
+  {
+    "name": "St. Maximos the Confessor",
+    "title": "Venerable, Confessor",
+    "description": "Great theologian and confessor who defended Orthodox Christology and suffered mutilation for the faith",
+    "month": 1,
+    "day": 21
   },
   {
     "name": "Apostle Timothy",
@@ -84,11 +161,32 @@
     "day": 22
   },
   {
+    "name": "St. Clement of Ancyra",
+    "title": "Hieromartyr",
+    "description": "Bishop of Ancyra martyred under the emperor Diocletian after years of imprisonment and torture",
+    "month": 1,
+    "day": 23
+  },
+  {
+    "name": "St. Xenia of Rome",
+    "title": "Venerable",
+    "description": "Noblewoman who fled her homeland disguised as a monk to preserve her virginity and live in asceticism",
+    "month": 1,
+    "day": 24
+  },
+  {
     "name": "St. Gregory the Theologian",
     "title": "Archbishop of Constantinople",
     "description": "One of the Three Holy Hierarchs, called 'the Theologian' for his profound teaching on the Trinity",
     "month": 1,
     "day": 25
+  },
+  {
+    "name": "St. Xenophon and St. Maria",
+    "title": "Venerables",
+    "description": "Married couple who were separated by shipwreck and later reunited as monastics with their two sons",
+    "month": 1,
+    "day": 26
   },
   {
     "name": "Translation of the Relics of St. John Chrysostom",
@@ -98,6 +196,20 @@
     "day": 27
   },
   {
+    "name": "St. Ephraim the Syrian",
+    "title": "Venerable, Hymnographer",
+    "description": "Great Syrian Father, hymnographer, and theologian whose writings enriched the Church",
+    "month": 1,
+    "day": 28
+  },
+  {
+    "name": "Transfer of the Relics of St. Ignatius the God-bearer",
+    "title": "Hieromartyr",
+    "description": "Commemoration of the translation of the holy relics of the Bishop of Antioch from Rome",
+    "month": 1,
+    "day": 29
+  },
+  {
     "name": "The Three Holy Hierarchs",
     "title": "Basil the Great, Gregory the Theologian, John Chrysostom",
     "description": "Joint feast of the three greatest Fathers of the Church, established to end disputes over who was the greatest",
@@ -105,11 +217,25 @@
     "day": 30
   },
   {
+    "name": "Sts. Cyrus and John",
+    "title": "Unmercenaries, Wonderworkers",
+    "description": "Physician and soldier who healed the sick without charge and were martyred in Egypt",
+    "month": 1,
+    "day": 31
+  },
+  {
     "name": "St. Tryphon",
     "title": "Martyr",
     "description": "Patron of gardeners and vinegrowers, healer and wonderworker martyred in his youth",
     "month": 2,
     "day": 1
+  },
+  {
+    "name": "St. Symeon the Elder",
+    "title": "Venerable",
+    "description": "Ascetic who lived in a hollow tree near Antioch and was renowned for his holiness and miracles",
+    "month": 2,
+    "day": 2
   },
   {
     "name": "St. Simeon the God-Receiver",
@@ -126,11 +252,46 @@
     "day": 3
   },
   {
+    "name": "St. Isidore of Pelusium",
+    "title": "Venerable",
+    "description": "Ascetic and theologian whose letters defended Orthodox doctrine and spiritual life",
+    "month": 2,
+    "day": 4
+  },
+  {
+    "name": "St. Agatha of Sicily",
+    "title": "Virgin Martyr",
+    "description": "Virgin martyr who suffered torture and death for refusing to renounce her vow of chastity",
+    "month": 2,
+    "day": 5
+  },
+  {
     "name": "St. Photios the Great",
     "title": "Patriarch of Constantinople",
     "description": "Outstanding theologian, scholar, and missionary who defended Orthodoxy and evangelized the Slavs",
     "month": 2,
     "day": 6
+  },
+  {
+    "name": "St. Parthenius of Lampsacus",
+    "title": "Bishop",
+    "description": "Bishop of Lampsacus known for his holiness and many miracles of healing",
+    "month": 2,
+    "day": 7
+  },
+  {
+    "name": "St. Theodore Stratelates",
+    "title": "Great Martyr",
+    "description": "Military saint and general who destroyed a serpent and was martyred for Christ",
+    "month": 2,
+    "day": 8
+  },
+  {
+    "name": "St. Nicephoros the Martyr",
+    "title": "Martyr",
+    "description": "Layman of Antioch who forgave his enemy and was martyred for confessing Christ",
+    "month": 2,
+    "day": 9
   },
   {
     "name": "St. Haralambos",
@@ -140,11 +301,46 @@
     "day": 10
   },
   {
+    "name": "St. Blaise of Sebaste",
+    "title": "Hieromartyr",
+    "description": "Bishop and physician martyred under the emperor Licinius, known for healing miracles",
+    "month": 2,
+    "day": 11
+  },
+  {
     "name": "St. Meletios of Antioch",
     "title": "Archbishop",
     "description": "Champion of Nicene Orthodoxy who suffered exile three times for the true faith",
     "month": 2,
     "day": 12
+  },
+  {
+    "name": "St. Martinianus the Hermit",
+    "title": "Venerable",
+    "description": "Hermit who fled to a desolate rock to escape temptation and lived there in strict asceticism",
+    "month": 2,
+    "day": 13
+  },
+  {
+    "name": "St. Auxentios of Bithynia",
+    "title": "Venerable",
+    "description": "Soldier who became a hermit on Mount Oxia near Constantinople and drew many disciples",
+    "month": 2,
+    "day": 14
+  },
+  {
+    "name": "Apostle Onesimus",
+    "title": "Apostle of the Seventy",
+    "description": "Runaway slave converted by St. Paul who became a bishop and was martyred for the faith",
+    "month": 2,
+    "day": 15
+  },
+  {
+    "name": "St. Pamphilus of Caesarea",
+    "title": "Hieromartyr",
+    "description": "Priest and scholar who preserved biblical manuscripts and was martyred under Diocletian",
+    "month": 2,
+    "day": 16
   },
   {
     "name": "St. Theodore the Tyron",
@@ -154,11 +350,88 @@
     "day": 17
   },
   {
+    "name": "St. Leo the Great",
+    "title": "Pope of Rome",
+    "description": "Great Father of the Church who defended Orthodoxy at the Council of Chalcedon and protected Rome from invasion",
+    "month": 2,
+    "day": 18
+  },
+  {
+    "name": "St. Archippus the Apostle",
+    "title": "Apostle of the Seventy",
+    "description": "Companion of the Apostle Paul, mentioned in his epistles as a fellow laborer",
+    "month": 2,
+    "day": 19
+  },
+  {
+    "name": "St. Leo of Catania",
+    "title": "Bishop, Wonderworker",
+    "description": "Bishop of Catania who defeated a sorcerer and worked many miracles in Sicily",
+    "month": 2,
+    "day": 20
+  },
+  {
+    "name": "St. Timothy of Symbola",
+    "title": "Venerable",
+    "description": "Ascetic who lived near Mount Olympus in Bithynia and was renowned for his holiness",
+    "month": 2,
+    "day": 21
+  },
+  {
+    "name": "Finding of the Relics of the Martyrs at Eugenios",
+    "title": "Martyrs",
+    "description": "Commemoration of the discovery of the relics of many martyrs near Constantinople",
+    "month": 2,
+    "day": 22
+  },
+  {
+    "name": "St. Polycarp of Smyrna",
+    "title": "Hieromartyr",
+    "description": "Apostolic Father, disciple of St. John the Theologian, and bishop martyred at the age of 86",
+    "month": 2,
+    "day": 23
+  },
+  {
     "name": "First and Second Finding of the Head of St. John the Baptist",
     "title": "Prophet, Forerunner of the Lord",
     "description": "Commemoration of the miraculous discovery of the precious head of the Forerunner",
     "month": 2,
     "day": 24
+  },
+  {
+    "name": "St. Tarasius of Constantinople",
+    "title": "Patriarch",
+    "description": "Patriarch who presided over the Seventh Ecumenical Council that restored the veneration of icons",
+    "month": 2,
+    "day": 25
+  },
+  {
+    "name": "St. Porphyrios of Gaza",
+    "title": "Bishop",
+    "description": "Bishop of Gaza who destroyed pagan temples and converted the city to Christianity",
+    "month": 2,
+    "day": 26
+  },
+  {
+    "name": "St. Procopius the Confessor",
+    "title": "Confessor",
+    "description": "Monk of the Decapolis who suffered for defending the holy icons during iconoclasm",
+    "month": 2,
+    "day": 27
+  },
+  {
+    "name": "St. Basil the Confessor",
+    "title": "Confessor",
+    "description": "Priest who defended the veneration of icons and suffered torture under the iconoclast emperors",
+    "month": 2,
+    "day": 28
+  },
+  {
+    "name": "St. Cassian the Roman",
+    "title": "Venerable",
+    "description": "Roman monk who established monasticism in Gaul and founded the monastery of St. Victor in Marseilles",
+    "month": 2,
+    "day": 29
   },
   {
     "name": "St. Eudokia",
@@ -168,11 +441,109 @@
     "day": 1
   },
   {
+    "name": "St. Hesychios the Faster",
+    "title": "Venerable",
+    "description": "Monk who lived in strict silence and fasting in the desert of Bithynia",
+    "month": 3,
+    "day": 2
+  },
+  {
+    "name": "Sts. Eutropios, Cleonikos, and Basiliskos",
+    "title": "Martyrs",
+    "description": "Three Christian soldiers martyred in Amasea for refusing to sacrifice to pagan gods",
+    "month": 3,
+    "day": 3
+  },
+  {
+    "name": "St. Gerasimos of the Jordan",
+    "title": "Venerable",
+    "description": "Palestinian monastic who founded a monastery near the Jordan and befriended a lion",
+    "month": 3,
+    "day": 4
+  },
+  {
+    "name": "St. Conon the Gardener",
+    "title": "Martyr",
+    "description": "Simple gardener from Pamphylia who was martyred for refusing to worship idols",
+    "month": 3,
+    "day": 5
+  },
+  {
+    "name": "The Holy Forty-Two Martyrs of Amorion",
+    "title": "Martyrs",
+    "description": "Byzantine officers imprisoned for seven years and martyred by the Saracens for refusing to convert to Islam",
+    "month": 3,
+    "day": 6
+  },
+  {
+    "name": "The Holy Hieromartyr Bishops of Cherson",
+    "title": "Hieromartyrs",
+    "description": "Seven missionary bishops sent to preach in Cherson who were martyred for the faith",
+    "month": 3,
+    "day": 7
+  },
+  {
+    "name": "St. Theophylact of Nicomedia",
+    "title": "Bishop, Confessor",
+    "description": "Bishop of Nicomedia who suffered exile for defending the veneration of holy icons",
+    "month": 3,
+    "day": 8
+  },
+  {
     "name": "The Holy Forty Martyrs of Sebaste",
     "title": "Martyrs",
     "description": "Forty Roman soldiers who chose death by freezing on an icy lake rather than deny Christ",
     "month": 3,
     "day": 9
+  },
+  {
+    "name": "St. Quadratus and Companions",
+    "title": "Martyrs",
+    "description": "Christian martyred in Corinth with five companions during the persecution of Decius",
+    "month": 3,
+    "day": 10
+  },
+  {
+    "name": "St. Sophronios of Jerusalem",
+    "title": "Patriarch",
+    "description": "Patriarch of Jerusalem, theologian, and hymnographer who defended Orthodox Christology",
+    "month": 3,
+    "day": 11
+  },
+  {
+    "name": "St. Gregory the Dialogist",
+    "title": "Pope of Rome",
+    "description": "Pope of Rome, author of the Dialogues, reformer of the liturgy, and missionary to England",
+    "month": 3,
+    "day": 12
+  },
+  {
+    "name": "Translation of the Relics of St. Nicephoros of Constantinople",
+    "title": "Patriarch, Confessor",
+    "description": "Commemoration of the return of the relics of the confessor patriarch to Constantinople",
+    "month": 3,
+    "day": 13
+  },
+  {
+    "name": "St. Benedict of Nursia",
+    "title": "Venerable",
+    "description": "Founder of Western monasticism, author of the Rule of St. Benedict that shaped monastic life",
+    "month": 3,
+    "day": 14
+  },
+  {
+    "name": "St. Agapios and Companions",
+    "title": "Martyrs",
+    "description": "Martyrs of Caesarea who suffered under the emperor Maximian for confessing Christ",
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "St. Sabinas the Martyr",
+    "title": "Martyr",
+    "description": "Egyptian Christian who was martyred under Diocletian for refusing to sacrifice to idols",
+    "month": 3,
+    "day": 16
   },
   {
     "name": "St. Alexis the Man of God",
@@ -182,11 +553,60 @@
     "day": 17
   },
   {
+    "name": "St. Cyril of Jerusalem",
+    "title": "Archbishop, Father of the Church",
+    "description": "Archbishop and theologian renowned for his catechetical lectures on the faith",
+    "month": 3,
+    "day": 18
+  },
+  {
+    "name": "Sts. Chrysanthos and Daria",
+    "title": "Martyrs",
+    "description": "Married couple who lived in virginity and converted many before being martyred in Rome",
+    "month": 3,
+    "day": 19
+  },
+  {
+    "name": "The Fathers Slain at the Monastery of St. Savvas",
+    "title": "Venerables",
+    "description": "Monks of the Great Lavra of St. Savvas near Jerusalem who were massacred by raiders",
+    "month": 3,
+    "day": 20
+  },
+  {
+    "name": "St. James the Confessor",
+    "title": "Bishop, Confessor",
+    "description": "Bishop who suffered exile and persecution for defending the Orthodox faith during iconoclasm",
+    "month": 3,
+    "day": 21
+  },
+  {
     "name": "St. Basil of Ancyra",
     "title": "Hieromartyr",
     "description": "Presbyter of Ancyra martyred under the emperor Julian the Apostate",
     "month": 3,
     "day": 22
+  },
+  {
+    "name": "St. Nikon and his Disciples",
+    "title": "Hieromartyr",
+    "description": "Monk who preached throughout the Mediterranean and was martyred with his disciples in Sicily",
+    "month": 3,
+    "day": 23
+  },
+  {
+    "name": "St. Artemon of Laodicea",
+    "title": "Hieromartyr",
+    "description": "Priest of Laodicea martyred under Diocletian after enduring prolonged torture",
+    "month": 3,
+    "day": 24
+  },
+  {
+    "name": "Annunciation of the Most Holy Theotokos",
+    "title": "Great Feast",
+    "description": "Proclamation by the Archangel Gabriel to the Virgin Mary that she would bear the Son of God",
+    "month": 3,
+    "day": 25
   },
   {
     "name": "Synaxis of the Archangel Gabriel",
@@ -196,11 +616,60 @@
     "day": 26
   },
   {
+    "name": "St. Matrona of Thessaloniki",
+    "title": "Venerable",
+    "description": "Slave who escaped her cruel master and lived in disguise as a monk until her death",
+    "month": 3,
+    "day": 27
+  },
+  {
+    "name": "St. Hilarion the New",
+    "title": "Venerable",
+    "description": "Byzantine monk and abbot of the Dalmatian Monastery who defended the veneration of icons",
+    "month": 3,
+    "day": 28
+  },
+  {
+    "name": "St. Mark of Arethusa",
+    "title": "Bishop, Confessor",
+    "description": "Bishop of Arethusa who suffered martyrdom under Julian the Apostate for destroying a pagan temple",
+    "month": 3,
+    "day": 29
+  },
+  {
+    "name": "St. John Climacus",
+    "title": "Venerable",
+    "description": "Abbot of Mount Sinai and author of the spiritual classic The Ladder of Divine Ascent",
+    "month": 3,
+    "day": 30
+  },
+  {
+    "name": "St. Innocent of Moscow",
+    "title": "Metropolitan, Enlightener of the Aleuts",
+    "description": "First Orthodox bishop in America who evangelized Alaska and translated Scripture into native languages",
+    "month": 3,
+    "day": 31
+  },
+  {
     "name": "St. Mary of Egypt",
     "title": "Venerable",
     "description": "Great penitent of the desert who repented of a life of sin and spent forty-seven years in the wilderness",
     "month": 4,
     "day": 1
+  },
+  {
+    "name": "St. Titus the Wonderworker",
+    "title": "Venerable",
+    "description": "Ascetic who lived in strict silence and was renowned for many miracles",
+    "month": 4,
+    "day": 2
+  },
+  {
+    "name": "St. Nicetas the Confessor",
+    "title": "Bishop of Apollonias",
+    "description": "Confessor who suffered persecution for defending the veneration of holy icons",
+    "month": 4,
+    "day": 3
   },
   {
     "name": "St. George of Maleon",
@@ -210,11 +679,130 @@
     "day": 4
   },
   {
+    "name": "St. Theodora of Thessaloniki",
+    "title": "Venerable",
+    "description": "Pious wife and mother who entered monastic life and was renowned for her humility and miracles",
+    "month": 4,
+    "day": 5
+  },
+  {
+    "name": "St. Eutychius",
+    "title": "Patriarch of Constantinople",
+    "description": "Defender of Orthodoxy who attended the Fifth Ecumenical Council",
+    "month": 4,
+    "day": 6
+  },
+  {
     "name": "St. George the Confessor",
     "title": "Bishop of Mytilene",
     "description": "Confessor bishop who suffered exile for his defense of the veneration of holy icons",
     "month": 4,
     "day": 7
+  },
+  {
+    "name": "Apostles Herodion, Agabus, Rufus, and Companions",
+    "title": "Apostles of the Seventy",
+    "description": "Apostles mentioned by St. Paul who labored in spreading the Gospel throughout the Roman world",
+    "month": 4,
+    "day": 8
+  },
+  {
+    "name": "St. Eupsychius of Caesarea",
+    "title": "Martyr",
+    "description": "Martyr of Caesarea in Cappadocia who suffered under the emperor Julian the Apostate",
+    "month": 4,
+    "day": 9
+  },
+  {
+    "name": "Sts. Terence, Pompey, and Companions",
+    "title": "Martyrs",
+    "description": "Martyrs of North Africa who suffered under the emperor Decius for confessing Christ",
+    "month": 4,
+    "day": 10
+  },
+  {
+    "name": "St. Antipas of Pergamon",
+    "title": "Hieromartyr, Bishop",
+    "description": "Disciple of the Apostle John, first bishop of Pergamum, roasted alive in a bronze bull",
+    "month": 4,
+    "day": 11
+  },
+  {
+    "name": "St. Basil the Confessor",
+    "title": "Bishop of Parium",
+    "description": "Confessor who suffered exile and imprisonment for defending the veneration of holy icons",
+    "month": 4,
+    "day": 12
+  },
+  {
+    "name": "St. Martin the Confessor",
+    "title": "Pope of Rome",
+    "description": "Defender of Orthodoxy who suffered exile and martyrdom for opposing the Monothelite heresy",
+    "month": 4,
+    "day": 13
+  },
+  {
+    "name": "Apostles Aristarchus, Pudens, and Trophimus",
+    "title": "Apostles of the Seventy",
+    "description": "Companions of the Apostle Paul who labored in spreading the Gospel throughout the world",
+    "month": 4,
+    "day": 14
+  },
+  {
+    "name": "Sts. Basilissa and Anastasia",
+    "title": "Martyrs",
+    "description": "Roman women martyred under the emperor Nero for burying the bodies of the Apostles Peter and Paul",
+    "month": 4,
+    "day": 15
+  },
+  {
+    "name": "Sts. Agape, Irene, and Chionia",
+    "title": "Martyrs",
+    "description": "Three sisters martyred in Thessaloniki under the emperor Diocletian for possessing the Scriptures",
+    "month": 4,
+    "day": 16
+  },
+  {
+    "name": "St. Simeon of Persia",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop who was martyred along with many Christians during the Persian persecution",
+    "month": 4,
+    "day": 17
+  },
+  {
+    "name": "St. John of the Ancient Caves",
+    "title": "Venerable",
+    "description": "Palestinian ascetic who lived in the desert caves near the Dead Sea and was renowned for his prayer",
+    "month": 4,
+    "day": 18
+  },
+  {
+    "name": "St. Paphnutius the Hieromartyr",
+    "title": "Hieromartyr",
+    "description": "Egyptian bishop who lost his eye during persecution and attended the Council of Nicaea",
+    "month": 4,
+    "day": 19
+  },
+  {
+    "name": "St. Theodore Trichinas",
+    "title": "Venerable",
+    "description": "Ascetic who wore only a rough hair shirt and devoted his life to unceasing prayer",
+    "month": 4,
+    "day": 20
+  },
+  {
+    "name": "St. Januarius and Companions",
+    "title": "Hieromartyr",
+    "description": "Bishop of Benevento who was martyred with his companions under the emperor Diocletian",
+    "month": 4,
+    "day": 21
+  },
+  {
+    "name": "St. Theodore of Sykeon",
+    "title": "Bishop of Anastasiopolis",
+    "description": "Wonderworking bishop renowned for his ascetic struggles and spiritual gifts",
+    "month": 4,
+    "day": 22
   },
   {
     "name": "St. George the Great Martyr",
@@ -224,11 +812,46 @@
     "day": 23
   },
   {
+    "name": "St. Elizabeth the Wonderworker",
+    "title": "Venerable",
+    "description": "Ascetic of Constantinople renowned for her miracles and devotion to the poor",
+    "month": 4,
+    "day": 24
+  },
+  {
     "name": "St. Mark the Evangelist",
     "title": "Apostle, Evangelist",
     "description": "Author of the Gospel of Mark, companion of the Apostles Peter and Paul, and founder of the Church of Alexandria",
     "month": 4,
     "day": 25
+  },
+  {
+    "name": "St. Basil of Amasea",
+    "title": "Hieromartyr",
+    "description": "Bishop of Amasea martyred under the emperor Licinius for sheltering persecuted Christians",
+    "month": 4,
+    "day": 26
+  },
+  {
+    "name": "St. Simeon the Kinsman of the Lord",
+    "title": "Hieromartyr, Bishop of Jerusalem",
+    "description": "Cousin of Christ and second bishop of Jerusalem, martyred by crucifixion at the age of 120",
+    "month": 4,
+    "day": 27
+  },
+  {
+    "name": "Apostles Jason and Sosipater",
+    "title": "Apostles of the Seventy",
+    "description": "Companions of the Apostle Paul who preached the Gospel in Corfu and throughout Greece",
+    "month": 4,
+    "day": 28
+  },
+  {
+    "name": "Nine Martyrs of Cyzicus",
+    "title": "Martyrs",
+    "description": "Nine Christians who publicly confessed Christ in Cyzicus and were beheaded for their faith",
+    "month": 4,
+    "day": 29
   },
   {
     "name": "Apostle James the Son of Zebedee",
@@ -252,11 +875,39 @@
     "day": 2
   },
   {
+    "name": "Sts. Timothy and Maura",
+    "title": "Martyrs",
+    "description": "Married couple martyred together in Egypt for refusing to surrender the sacred Scriptures",
+    "month": 5,
+    "day": 3
+  },
+  {
+    "name": "St. Pelagia of Tarsus",
+    "title": "Virgin Martyr",
+    "description": "Fifteen-year-old virgin of Tarsus who chose death over defilement during persecution",
+    "month": 5,
+    "day": 4
+  },
+  {
     "name": "St. Irene the Great Martyr",
     "title": "Great Martyr",
     "description": "Converted many to Christianity through her preaching and miracles, and was martyred for her faith",
     "month": 5,
     "day": 5
+  },
+  {
+    "name": "Righteous Job the Long-suffering",
+    "title": "Righteous Patriarch",
+    "description": "Old Testament patriarch renowned for his patience and faithfulness during extreme suffering",
+    "month": 5,
+    "day": 6
+  },
+  {
+    "name": "Commemoration of the Sign of the Cross over Jerusalem",
+    "title": "Feast",
+    "description": "Commemoration of the miraculous appearance of a luminous cross in the sky over Jerusalem in 351 AD",
+    "month": 5,
+    "day": 7
   },
   {
     "name": "St. John the Theologian",
@@ -266,11 +917,46 @@
     "day": 8
   },
   {
+    "name": "Prophet Isaiah",
+    "title": "Prophet",
+    "description": "One of the four great Old Testament prophets who prophesied most clearly about Christ and His kingdom",
+    "month": 5,
+    "day": 9
+  },
+  {
+    "name": "Apostle Simon the Zealot",
+    "title": "Apostle of the Twelve",
+    "description": "One of the Twelve Apostles who preached in Egypt, Africa, and Britain where he was martyred",
+    "month": 5,
+    "day": 10
+  },
+  {
     "name": "Sts. Cyril and Methodius",
     "title": "Equal-to-the-Apostles",
     "description": "Enlighteners of the Slavs who created the Slavonic alphabet and translated the Scriptures and liturgical texts",
     "month": 5,
     "day": 11
+  },
+  {
+    "name": "St. Epiphanius of Cyprus",
+    "title": "Bishop of Constantia",
+    "description": "Defender of Orthodoxy and author of works against heresies, champion of monastic life",
+    "month": 5,
+    "day": 12
+  },
+  {
+    "name": "St. Glyceria the Martyr",
+    "title": "Martyr",
+    "description": "Virgin martyr of Heraclea who was thrown to wild beasts for refusing to sacrifice to idols",
+    "month": 5,
+    "day": 13
+  },
+  {
+    "name": "St. Isidore of Chios",
+    "title": "Martyr",
+    "description": "Martyr of Chios who suffered under the emperor Decius for confessing Christ",
+    "month": 5,
+    "day": 14
   },
   {
     "name": "St. Pachomius the Great",
@@ -280,11 +966,67 @@
     "day": 15
   },
   {
+    "name": "St. Theodore the Sanctified",
+    "title": "Venerable",
+    "description": "Disciple of St. Pachomius who continued his teacher's monastic tradition in Egypt",
+    "month": 5,
+    "day": 16
+  },
+  {
+    "name": "Apostle Andronicus and St. Junia",
+    "title": "Apostles of the Seventy",
+    "description": "Apostles mentioned by St. Paul who labored in spreading the Gospel and suffered for Christ",
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Sts. Peter, Dionysios, and Companions",
+    "title": "Martyrs",
+    "description": "Martyrs who suffered together at Lampsakos under Decius for their confession of Christ",
+    "month": 5,
+    "day": 18
+  },
+  {
+    "name": "St. Patrick of Prusa",
+    "title": "Hieromartyr",
+    "description": "Bishop of Prusa who was martyred under the emperor Julian the Apostate",
+    "month": 5,
+    "day": 19
+  },
+  {
+    "name": "St. Thallelaeus the Martyr",
+    "title": "Martyr",
+    "description": "Young physician and martyr of Lebanon who suffered under the emperor Numerian for confessing Christ",
+    "month": 5,
+    "day": 20
+  },
+  {
     "name": "Sts. Constantine and Helen",
     "title": "Equal-to-the-Apostles",
     "description": "Emperor Constantine who legalized Christianity and his mother Helen who found the True Cross",
     "month": 5,
     "day": 21
+  },
+  {
+    "name": "St. Basiliscus the Martyr",
+    "title": "Martyr",
+    "description": "Nephew of St. Theodore the Tyron who was martyred under the emperor Maximian",
+    "month": 5,
+    "day": 22
+  },
+  {
+    "name": "St. Michael the Confessor",
+    "title": "Bishop of Synnada",
+    "description": "Confessor who suffered persecution for defending the veneration of holy icons",
+    "month": 5,
+    "day": 23
+  },
+  {
+    "name": "St. Symeon Stylites the Younger",
+    "title": "Venerable",
+    "description": "Pillar-dweller who spent many years atop a pillar near Antioch in prayer and asceticism",
+    "month": 5,
+    "day": 24
   },
   {
     "name": "Third Finding of the Head of St. John the Baptist",
@@ -294,6 +1036,48 @@
     "day": 25
   },
   {
+    "name": "Apostle Carpus",
+    "title": "Apostle of the Seventy",
+    "description": "Disciple of the Apostle Paul and bishop of Beroea in Thrace",
+    "month": 5,
+    "day": 26
+  },
+  {
+    "name": "St. John the Russian",
+    "title": "Confessor",
+    "description": "Russian soldier captured by the Turks who endured slavery with patience and became a great wonderworker",
+    "month": 5,
+    "day": 27
+  },
+  {
+    "name": "St. Eutychius of Melitene",
+    "title": "Hieromartyr",
+    "description": "Bishop of Melitene who was martyred under the emperor Diocletian for confessing Christ",
+    "month": 5,
+    "day": 28
+  },
+  {
+    "name": "St. Theodosia of Constantinople",
+    "title": "Martyr",
+    "description": "Virgin martyr who was killed by iconoclasts for defending a holy icon of Christ",
+    "month": 5,
+    "day": 29
+  },
+  {
+    "name": "St. Isaac of Dalmatia",
+    "title": "Venerable",
+    "description": "Monk of Constantinople who prophesied to Emperor Valens and founded the Dalmatian monastery",
+    "month": 5,
+    "day": 30
+  },
+  {
+    "name": "Apostle Hermes",
+    "title": "Apostle of the Seventy",
+    "description": "One of the seventy disciples mentioned by St. Paul who served as bishop of Dalmatia",
+    "month": 5,
+    "day": 31
+  },
+  {
     "name": "St. Justin the Philosopher",
     "title": "Martyr",
     "description": "Early Christian apologist who defended the faith through philosophy and was martyred in Rome",
@@ -301,11 +1085,67 @@
     "day": 1
   },
   {
+    "name": "St. Nicephorus the Confessor",
+    "title": "Patriarch of Constantinople",
+    "description": "Defender of Orthodoxy who suffered exile for defending the veneration of holy icons",
+    "month": 6,
+    "day": 2
+  },
+  {
+    "name": "St. Lucillian and Companions",
+    "title": "Martyrs",
+    "description": "Elderly pagan priest who converted to Christianity and was martyred with four young companions",
+    "month": 6,
+    "day": 3
+  },
+  {
+    "name": "St. Metrophanes of Constantinople",
+    "title": "Patriarch",
+    "description": "First patriarch of Constantinople after the city became the capital of the Roman Empire",
+    "month": 6,
+    "day": 4
+  },
+  {
+    "name": "St. Dorotheus of Tyre",
+    "title": "Hieromartyr",
+    "description": "Bishop of Tyre who suffered under the emperor Julian the Apostate and died as a martyr",
+    "month": 6,
+    "day": 5
+  },
+  {
+    "name": "St. Bessarion the Wonderworker",
+    "title": "Venerable",
+    "description": "Egyptian desert father renowned for his miracles, including walking on water",
+    "month": 6,
+    "day": 6
+  },
+  {
+    "name": "St. Theodotus of Ancyra",
+    "title": "Hieromartyr",
+    "description": "Innkeeper who buried the bodies of martyred virgins and was himself martyred under Diocletian",
+    "month": 6,
+    "day": 7
+  },
+  {
     "name": "Transfer of Relics of St. Theodore Stratelates",
     "title": "Great Martyr",
     "description": "Military saint and general who destroyed a serpent and was martyred for refusing to sacrifice to idols",
     "month": 6,
     "day": 8
+  },
+  {
+    "name": "St. Cyril of Alexandria",
+    "title": "Archbishop, Father of the Church",
+    "description": "Second commemoration of the defender of the title Theotokos at the Council of Ephesus",
+    "month": 6,
+    "day": 9
+  },
+  {
+    "name": "St. Timothy of Prusa",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop of Prusa who was martyred under the emperor Diocletian",
+    "month": 6,
+    "day": 10
   },
   {
     "name": "Apostle Bartholomew",
@@ -322,11 +1162,53 @@
     "day": 11
   },
   {
+    "name": "St. Onuphrius the Great",
+    "title": "Venerable",
+    "description": "Egyptian hermit who lived in complete solitude in the desert for sixty years",
+    "month": 6,
+    "day": 12
+  },
+  {
+    "name": "St. Aquilina the Martyr",
+    "title": "Virgin Martyr",
+    "description": "Twelve-year-old virgin martyr who was tortured and beheaded for confessing Christ",
+    "month": 6,
+    "day": 13
+  },
+  {
     "name": "Prophet Elisha",
     "title": "Prophet",
     "description": "Disciple and successor of the Prophet Elijah, who received a double portion of his spirit",
     "month": 6,
     "day": 14
+  },
+  {
+    "name": "Prophet Amos",
+    "title": "Prophet",
+    "description": "Old Testament prophet and shepherd who prophesied against the injustices of Israel",
+    "month": 6,
+    "day": 15
+  },
+  {
+    "name": "St. Tychon of Amathus",
+    "title": "Bishop, Wonderworker",
+    "description": "Bishop of Amathus in Cyprus who struggled against paganism and performed many miracles",
+    "month": 6,
+    "day": 16
+  },
+  {
+    "name": "Sts. Manuel, Sabel, and Ismael",
+    "title": "Martyrs",
+    "description": "Three Persian brothers who were martyred under the emperor Julian the Apostate",
+    "month": 6,
+    "day": 17
+  },
+  {
+    "name": "St. Leontius of Tripoli",
+    "title": "Martyr",
+    "description": "Roman soldier who converted to Christianity and was martyred in Tripoli under Vespasian",
+    "month": 6,
+    "day": 18
   },
   {
     "name": "Apostle Jude",
@@ -336,11 +1218,67 @@
     "day": 19
   },
   {
+    "name": "St. Methodius of Patara",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop and Church Father who authored works against Origen and was martyred under Diocletian",
+    "month": 6,
+    "day": 20
+  },
+  {
+    "name": "St. Julian of Tarsus",
+    "title": "Martyr",
+    "description": "Young martyr of Cilicia who was tortured and drowned for his steadfast confession of Christ",
+    "month": 6,
+    "day": 21
+  },
+  {
+    "name": "St. Eusebius of Samosata",
+    "title": "Hieromartyr, Bishop",
+    "description": "Defender of Orthodoxy who opposed the Arian heresy and was martyred by an Arian woman",
+    "month": 6,
+    "day": 22
+  },
+  {
+    "name": "St. Agrippina the Martyr",
+    "title": "Virgin Martyr",
+    "description": "Virgin martyr of Rome who was scourged and beheaded under the emperor Valerian",
+    "month": 6,
+    "day": 23
+  },
+  {
     "name": "Nativity of St. John the Baptist",
     "title": "Prophet, Forerunner of the Lord",
     "description": "Celebration of the miraculous birth of the Forerunner to the aged Zachariah and Elizabeth",
     "month": 6,
     "day": 24
+  },
+  {
+    "name": "St. Febronia of Nisibis",
+    "title": "Great Martyr",
+    "description": "Nun of Nisibis who endured terrible tortures and was martyred under the emperor Diocletian",
+    "month": 6,
+    "day": 25
+  },
+  {
+    "name": "St. David of Thessaloniki",
+    "title": "Venerable",
+    "description": "Hermit who lived in an almond tree near Thessaloniki for three years in prayer",
+    "month": 6,
+    "day": 26
+  },
+  {
+    "name": "St. Sampson the Hospitable",
+    "title": "Unmercenary Healer",
+    "description": "Physician of Constantinople who healed the sick without charge and founded a great hospital",
+    "month": 6,
+    "day": 27
+  },
+  {
+    "name": "Translation of the Relics of Sts. Cyrus and John",
+    "title": "Unmercenary Healers",
+    "description": "Commemoration of the transfer of the relics of the unmercenary physicians and martyrs",
+    "month": 6,
+    "day": 28
   },
   {
     "name": "Holy Apostles Peter and Paul",
@@ -371,11 +1309,60 @@
     "day": 2
   },
   {
+    "name": "St. Hyacinth of Caesarea",
+    "title": "Martyr",
+    "description": "Christian martyr who refused to eat food offered to idols and was martyred under the emperor Trajan",
+    "month": 7,
+    "day": 3
+  },
+  {
+    "name": "St. Andrew of Crete",
+    "title": "Archbishop of Crete",
+    "description": "Hymnographer and homilist who composed the Great Canon of Repentance sung during Great Lent",
+    "month": 7,
+    "day": 4
+  },
+  {
+    "name": "St. Athanasius of Athos",
+    "title": "Venerable",
+    "description": "Founder of the monastic community on Mount Athos, establishing it as the center of Orthodox monasticism",
+    "month": 7,
+    "day": 5
+  },
+  {
+    "name": "St. Sisoes the Great",
+    "title": "Venerable",
+    "description": "Desert father who lived in the cave of St. Anthony the Great and was renowned for his humility",
+    "month": 7,
+    "day": 6
+  },
+  {
     "name": "St. Kyriaki the Great Martyr",
     "title": "Great Martyr",
     "description": "Virgin martyr who suffered under the emperor Diocletian for refusing to sacrifice to idols",
     "month": 7,
     "day": 7
+  },
+  {
+    "name": "St. Procopius the Great Martyr",
+    "title": "Great Martyr",
+    "description": "Roman officer who converted to Christianity and was martyred under Diocletian for refusing to sacrifice to idols",
+    "month": 7,
+    "day": 8
+  },
+  {
+    "name": "St. Pancratius of Taormina",
+    "title": "Hieromartyr, Bishop",
+    "description": "Disciple of the Apostle Peter who was sent to preach in Sicily and became the first bishop of Taormina",
+    "month": 7,
+    "day": 9
+  },
+  {
+    "name": "Sts. Anthony and Theodosius of the Kiev Caves",
+    "title": "Venerables",
+    "description": "Founders of the Kiev Caves Lavra, the first monastery in Kievan Rus and cradle of Russian monasticism",
+    "month": 7,
+    "day": 10
   },
   {
     "name": "St. Euphemia the Great Martyr",
@@ -385,11 +1372,39 @@
     "day": 11
   },
   {
+    "name": "Sts. Proclus and Hilary of Ancyra",
+    "title": "Martyrs",
+    "description": "Uncle and nephew who were martyred together under Trajan for their steadfast confession of Christ",
+    "month": 7,
+    "day": 12
+  },
+  {
+    "name": "Synaxis of the Archangel Gabriel",
+    "title": "Archangel",
+    "description": "Second commemoration of the Archangel Gabriel who announced the Incarnation to the Theotokos",
+    "month": 7,
+    "day": 13
+  },
+  {
+    "name": "Apostle Aquila",
+    "title": "Apostle of the Seventy",
+    "description": "Companion and coworker of the Apostle Paul, who hosted the early Church in his home with his wife Priscilla",
+    "month": 7,
+    "day": 14
+  },
+  {
     "name": "St. Vladimir of Kiev",
     "title": "Equal-to-the-Apostles",
     "description": "Grand Prince who baptized Kievan Rus and brought Orthodox Christianity to the eastern Slavs",
     "month": 7,
     "day": 15
+  },
+  {
+    "name": "St. Athenogenes the Hieromartyr",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop who composed the hymn O Joyous Light as he walked to his martyrdom under Diocletian",
+    "month": 7,
+    "day": 16
   },
   {
     "name": "St. Marina the Great Martyr",
@@ -399,6 +1414,20 @@
     "day": 17
   },
   {
+    "name": "St. Emilian of Dorostolum",
+    "title": "Martyr",
+    "description": "Slave who destroyed pagan idols and was burned alive for confessing Christ under Julian the Apostate",
+    "month": 7,
+    "day": 18
+  },
+  {
+    "name": "St. Macrina the Younger",
+    "title": "Venerable",
+    "description": "Sister of St. Basil the Great and St. Gregory of Nyssa, who founded a women's monastic community",
+    "month": 7,
+    "day": 19
+  },
+  {
     "name": "Holy Prophet Elijah",
     "title": "Prophet, the Tishbite",
     "description": "One of the greatest prophets, taken to heaven in a chariot of fire, who appeared with Moses at the Transfiguration",
@@ -406,11 +1435,32 @@
     "day": 20
   },
   {
+    "name": "St. Symeon the Fool-for-Christ",
+    "title": "Venerable",
+    "description": "Syrian ascetic who embraced the difficult path of foolishness for Christ to hide his great holiness",
+    "month": 7,
+    "day": 21
+  },
+  {
     "name": "St. Mary Magdalene",
     "title": "Equal-to-the-Apostles, Myrrh-bearer",
     "description": "First witness of the Resurrection, faithful follower of Christ, called equal-to-the-apostles for her preaching",
     "month": 7,
     "day": 22
+  },
+  {
+    "name": "St. Apollinaris of Ravenna",
+    "title": "Hieromartyr, Bishop",
+    "description": "Disciple of the Apostle Peter who became the first bishop of Ravenna and was martyred for the faith",
+    "month": 7,
+    "day": 23
+  },
+  {
+    "name": "St. Christina the Great Martyr",
+    "title": "Great Martyr",
+    "description": "Virgin martyr who destroyed her father's idols and endured many tortures before being martyred",
+    "month": 7,
+    "day": 24
   },
   {
     "name": "Dormition of St. Anna",
@@ -434,6 +1484,34 @@
     "day": 27
   },
   {
+    "name": "Apostles Prochorus, Nicanor, Timon, and Parmenas",
+    "title": "Apostles of the Seventy",
+    "description": "Four of the seven deacons chosen by the Apostles to serve the early Church in Jerusalem",
+    "month": 7,
+    "day": 28
+  },
+  {
+    "name": "St. Callinicus of Gangra",
+    "title": "Hieromartyr",
+    "description": "Bishop martyred under the emperor Maximian by being cast into fire for confessing Christ",
+    "month": 7,
+    "day": 29
+  },
+  {
+    "name": "Apostles Silas, Silvanus, and Companions",
+    "title": "Apostles of the Seventy",
+    "description": "Companions of the Apostle Paul who labored in preaching the Gospel throughout the Roman world",
+    "month": 7,
+    "day": 30
+  },
+  {
+    "name": "St. Eudocimus the Righteous",
+    "title": "Venerable",
+    "description": "Cappadocian nobleman who gave away all his possessions and lived in holy poverty serving the poor",
+    "month": 7,
+    "day": 31
+  },
+  {
     "name": "Procession of the Cross",
     "title": "Feast",
     "description": "Procession of the Precious Wood of the Cross, commemorating the consecration of Constantinople",
@@ -455,11 +1533,123 @@
     "day": 2
   },
   {
+    "name": "Sts. Isaakios, Dalmat, and Faustus",
+    "title": "Venerables",
+    "description": "Three monks of Constantinople who defended the Orthodox faith against heresy",
+    "month": 8,
+    "day": 3
+  },
+  {
+    "name": "The Seven Holy Youths of Ephesus",
+    "title": "Martyrs",
+    "description": "Young Christians who hid in a cave during persecution and miraculously slept for nearly two centuries",
+    "month": 8,
+    "day": 4
+  },
+  {
+    "name": "St. Eusignius the Martyr",
+    "title": "Martyr",
+    "description": "Aged soldier of Constantine the Great who was martyred under Julian the Apostate at the age of 110",
+    "month": 8,
+    "day": 5
+  },
+  {
+    "name": "Transfiguration of Our Lord",
+    "title": "Great Feast",
+    "description": "Manifestation of Christ's divine glory on Mount Tabor in the presence of Peter, James, and John",
+    "month": 8,
+    "day": 6
+  },
+  {
+    "name": "St. Dometius of Persia",
+    "title": "Venerable Martyr",
+    "description": "Syrian hermit who lived in a cave near Nisibis and was martyred by pagan Persians",
+    "month": 8,
+    "day": 7
+  },
+  {
+    "name": "St. Emilian the Confessor",
+    "title": "Bishop of Cyzicus",
+    "description": "Bishop who suffered greatly for defending the holy icons during the iconoclast persecutions",
+    "month": 8,
+    "day": 8
+  },
+  {
     "name": "Apostle Matthias",
     "title": "Apostle of the Twelve",
     "description": "Chosen by lot to replace Judas Iscariot and numbered among the Twelve Apostles",
     "month": 8,
     "day": 9
+  },
+  {
+    "name": "St. Lawrence the Archdeacon",
+    "title": "Hieromartyr",
+    "description": "Archdeacon of Rome who was martyred by being roasted alive on a gridiron under Valerian",
+    "month": 8,
+    "day": 10
+  },
+  {
+    "name": "St. Euplus the Archdeacon",
+    "title": "Hieromartyr",
+    "description": "Deacon of Catania who was martyred under Diocletian for refusing to surrender the holy Scriptures",
+    "month": 8,
+    "day": 11
+  },
+  {
+    "name": "Sts. Photius and Anicetus",
+    "title": "Martyrs",
+    "description": "Martyrs of Nicomedia who suffered under Diocletian during the great persecution of Christians",
+    "month": 8,
+    "day": 12
+  },
+  {
+    "name": "St. Maximus the Confessor",
+    "title": "Venerable",
+    "description": "Great theologian and defender of Orthodox Christology who was tortured and exiled for opposing heresy",
+    "month": 8,
+    "day": 13
+  },
+  {
+    "name": "Prophet Micah",
+    "title": "Prophet",
+    "description": "Old Testament prophet who foretold that the Messiah would be born in Bethlehem",
+    "month": 8,
+    "day": 14
+  },
+  {
+    "name": "Dormition of the Most Holy Theotokos",
+    "title": "Great Feast",
+    "description": "Falling asleep of the Most Holy Mother of God and her translation to heaven in body and soul",
+    "month": 8,
+    "day": 15
+  },
+  {
+    "name": "Translation of the Icon Not-Made-by-Hands",
+    "title": "Feast",
+    "description": "Transfer of the miraculous image of Christ from Edessa to Constantinople",
+    "month": 8,
+    "day": 16
+  },
+  {
+    "name": "St. Myron of Crete",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop of Crete who was martyred under Decius for his steadfast preaching of the Gospel",
+    "month": 8,
+    "day": 17
+  },
+  {
+    "name": "Sts. Florus and Laurus",
+    "title": "Martyrs",
+    "description": "Twin brothers and stonemasons who converted many through their witness and were martyred in Illyria",
+    "month": 8,
+    "day": 18
+  },
+  {
+    "name": "St. Andrew the General",
+    "title": "Martyr",
+    "description": "Roman military commander who openly confessed Christ and was martyred under Maximian",
+    "month": 8,
+    "day": 19
   },
   {
     "name": "Prophet Samuel",
@@ -469,11 +1659,60 @@
     "day": 20
   },
   {
+    "name": "Apostle Thaddeus",
+    "title": "Apostle of the Seventy",
+    "description": "One of the seventy disciples sent by Christ to preach the Gospel, evangelizer of Mesopotamia",
+    "month": 8,
+    "day": 21
+  },
+  {
+    "name": "St. Agathonicus and Companions",
+    "title": "Martyrs",
+    "description": "Martyrs of Nicomedia who suffered under Maximian for their confession of the Christian faith",
+    "month": 8,
+    "day": 22
+  },
+  {
+    "name": "St. Lupus the Martyr",
+    "title": "Martyr",
+    "description": "Servant of St. Demetrios who was martyred in Thessaloniki after his master's death",
+    "month": 8,
+    "day": 23
+  },
+  {
     "name": "St. Cosmas of Aetolia",
     "title": "Hieromartyr, Equal-to-the-Apostles",
     "description": "New martyr and patron of education who founded over two hundred schools throughout Greece before his martyrdom",
     "month": 8,
     "day": 24
+  },
+  {
+    "name": "Translation of the Relics of Apostle Bartholomew",
+    "title": "Apostle of the Twelve",
+    "description": "Commemoration of the transfer of the relics of the Apostle who preached in Armenia and India",
+    "month": 8,
+    "day": 25
+  },
+  {
+    "name": "Sts. Adrian and Natalia",
+    "title": "Martyrs",
+    "description": "Husband and wife martyrs of Nicomedia, honored for their courage and mutual support in martyrdom",
+    "month": 8,
+    "day": 26
+  },
+  {
+    "name": "St. Pimen the Great",
+    "title": "Venerable",
+    "description": "Egyptian desert father renowned for his wisdom, silence, and profound spiritual discernment",
+    "month": 8,
+    "day": 27
+  },
+  {
+    "name": "St. Moses the Black",
+    "title": "Venerable",
+    "description": "Former robber who repented and became a great desert father, martyred by barbarian raiders at his monastery",
+    "month": 8,
+    "day": 28
   },
   {
     "name": "The Beheading of St. John the Baptist",
@@ -511,11 +1750,53 @@
     "day": 1
   },
   {
+    "name": "St. Mamas of Caesarea",
+    "title": "Great Martyr",
+    "description": "Shepherd martyr who tamed wild beasts and was finally martyred for his steadfast faith in Christ",
+    "month": 9,
+    "day": 2
+  },
+  {
+    "name": "St. Anthimus of Nicomedia",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop of Nicomedia who was beheaded under Diocletian for converting pagans and defending the faith",
+    "month": 9,
+    "day": 3
+  },
+  {
+    "name": "St. Babylas of Antioch",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop who rebuked the emperor for his sins and was martyred with three young disciples",
+    "month": 9,
+    "day": 4
+  },
+  {
     "name": "Prophet Zachariah and Righteous Elizabeth",
     "title": "Parents of St. John the Baptist",
     "description": "Righteous priest and his wife who bore the Forerunner in their old age according to God's promise",
     "month": 9,
     "day": 5
+  },
+  {
+    "name": "Miracle of the Archangel Michael at Colossae",
+    "title": "Feast",
+    "description": "Commemoration of the miracle where the Archangel Michael saved a church by diverting two rivers",
+    "month": 9,
+    "day": 6
+  },
+  {
+    "name": "St. Sozon the Martyr",
+    "title": "Martyr",
+    "description": "Shepherd who destroyed a golden idol and was martyred under Maximian for his bold witness to Christ",
+    "month": 9,
+    "day": 7
+  },
+  {
+    "name": "Nativity of the Most Holy Theotokos",
+    "title": "Great Feast",
+    "description": "Celebration of the birth of the Most Holy Mother of God to the righteous Joachim and Anna",
+    "month": 9,
+    "day": 8
   },
   {
     "name": "Sts. Joachim and Anna",
@@ -525,11 +1806,74 @@
     "day": 9
   },
   {
+    "name": "Sts. Menodora, Metrodora, and Nymphodora",
+    "title": "Martyrs",
+    "description": "Three sisters who lived in asceticism and were martyred under Maximian for refusing to deny Christ",
+    "month": 9,
+    "day": 10
+  },
+  {
+    "name": "St. Theodora of Alexandria",
+    "title": "Venerable",
+    "description": "Penitent who lived disguised as a monk to atone for her sin, her true identity revealed only after death",
+    "month": 9,
+    "day": 11
+  },
+  {
+    "name": "St. Autonomus the Hieromartyr",
+    "title": "Hieromartyr, Bishop",
+    "description": "Italian bishop who evangelized in Asia and was martyred by pagans whom he was converting to Christ",
+    "month": 9,
+    "day": 12
+  },
+  {
+    "name": "Forefeast of the Exaltation of the Cross",
+    "title": "Feast",
+    "description": "Day of preparation before the great feast of the Universal Exaltation of the Precious Cross",
+    "month": 9,
+    "day": 13
+  },
+  {
+    "name": "Universal Exaltation of the Precious Cross",
+    "title": "Great Feast",
+    "description": "Celebration of the finding of the True Cross by St. Helen and its exaltation before the faithful",
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "St. Nicetas the Great Martyr",
+    "title": "Great Martyr",
+    "description": "Gothic convert who was tortured and burned alive for refusing to deny Christ and worship idols",
+    "month": 9,
+    "day": 15
+  },
+  {
+    "name": "St. Euphemia the Great Martyr",
+    "title": "Great Martyr, All-praised",
+    "description": "Second commemoration of the martyr whose incorrupt body affirmed the Orthodox faith at Chalcedon",
+    "month": 9,
+    "day": 16
+  },
+  {
     "name": "St. Sophia and her Three Daughters",
     "title": "Martyrs",
     "description": "St. Sophia and her daughters Faith, Hope, and Love, who were martyred in Rome under the emperor Hadrian",
     "month": 9,
     "day": 17
+  },
+  {
+    "name": "St. Eumenius of Gortyna",
+    "title": "Bishop, Wonderworker",
+    "description": "Bishop of Gortyna in Crete who performed many miracles and gave all his wealth to the poor",
+    "month": 9,
+    "day": 18
+  },
+  {
+    "name": "Sts. Trophimus, Sabbatius, and Dorymedon",
+    "title": "Martyrs",
+    "description": "Three martyrs who suffered together under various tortures for their confession of Christ",
+    "month": 9,
+    "day": 19
   },
   {
     "name": "St. Eustathios the Great Martyr",
@@ -539,11 +1883,39 @@
     "day": 20
   },
   {
+    "name": "Apostle Quadratus",
+    "title": "Apostle of the Seventy",
+    "description": "One of the seventy disciples and early Christian apologist who defended the faith to the emperor Hadrian",
+    "month": 9,
+    "day": 21
+  },
+  {
+    "name": "St. Phocas the Hieromartyr",
+    "title": "Hieromartyr, Bishop",
+    "description": "Bishop of Sinope who was martyred by beheading during the persecution under Trajan",
+    "month": 9,
+    "day": 22
+  },
+  {
     "name": "Conception of St. John the Baptist",
     "title": "Prophet, Forerunner of the Lord",
     "description": "Commemoration of the miraculous conception of the Forerunner by the aged Zachariah and Elizabeth",
     "month": 9,
     "day": 23
+  },
+  {
+    "name": "St. Thekla the Protomartyr",
+    "title": "Equal-to-the-Apostles",
+    "description": "First woman martyr, disciple of the Apostle Paul who survived many tortures and preached the Gospel",
+    "month": 9,
+    "day": 24
+  },
+  {
+    "name": "St. Euphrosyne of Alexandria",
+    "title": "Venerable",
+    "description": "Daughter of a wealthy man who disguised herself as a monk and lived in a monastery unknown to her father",
+    "month": 9,
+    "day": 25
   },
   {
     "name": "Repose of the Apostle and Evangelist John the Theologian",
@@ -553,11 +1925,46 @@
     "day": 26
   },
   {
+    "name": "St. Callistratus and Companions",
+    "title": "Martyrs",
+    "description": "Roman soldier martyred with forty-nine companions under Diocletian for confessing Christ",
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "St. Chariton the Confessor",
+    "title": "Venerable",
+    "description": "Founder of three monasteries in Palestine who survived persecution and established cenobitic monasticism there",
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "St. Cyriacus the Anchorite",
+    "title": "Venerable",
+    "description": "Palestinian hermit who lived to be 109 years old and was visited by many seeking spiritual counsel",
+    "month": 9,
+    "day": 29
+  },
+  {
+    "name": "St. Gregory the Enlightener",
+    "title": "Equal-to-the-Apostles, Bishop",
+    "description": "Apostle to Armenia who converted King Tiridates and established Christianity as the state religion",
+    "month": 9,
+    "day": 30
+  },
+  {
     "name": "Protection of the Theotokos",
     "title": "Feast of the Theotokos",
     "description": "Feast commemorating the vision of the Theotokos spreading her veil of protection over the faithful at Blachernae",
     "month": 10,
     "day": 1
+  },
+  {
+    "name": "St. Cyprian and St. Justina",
+    "title": "Martyrs",
+    "description": "Former magician who converted to Christianity and the virgin whose prayers saved her from his sorcery",
+    "month": 10,
+    "day": 2
   },
   {
     "name": "St. Dionysios the Areopagite",
@@ -567,11 +1974,102 @@
     "day": 3
   },
   {
+    "name": "St. Hierotheos of Athens",
+    "title": "Bishop",
+    "description": "First bishop of Athens and teacher of St. Dionysios the Areopagite, present at the Dormition of the Theotokos",
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "St. Charitina the Martyr",
+    "title": "Martyr",
+    "description": "Virgin martyr who endured cruel tortures and was beheaded for her confession of Christ",
+    "month": 10,
+    "day": 5
+  },
+  {
     "name": "Apostle Thomas",
     "title": "Apostle of the Twelve",
     "description": "Called 'Doubting Thomas' for demanding to touch the risen Christ, he later preached the Gospel as far as India",
     "month": 10,
     "day": 6
+  },
+  {
+    "name": "Sts. Sergius and Bacchus",
+    "title": "Martyrs",
+    "description": "Roman military officers and secret Christians who were martyred for refusing to sacrifice to pagan gods",
+    "month": 10,
+    "day": 7
+  },
+  {
+    "name": "St. Pelagia the Penitent",
+    "title": "Venerable",
+    "description": "Former actress who repented and lived as a hermit in Jerusalem in strict asceticism",
+    "month": 10,
+    "day": 8
+  },
+  {
+    "name": "Apostle James the Son of Alphaeus",
+    "title": "Apostle of the Twelve",
+    "description": "One of the Twelve Apostles who preached the Gospel in Palestine and was crucified in Egypt",
+    "month": 10,
+    "day": 9
+  },
+  {
+    "name": "Sts. Eulampios and Eulampia",
+    "title": "Martyrs",
+    "description": "Brother and sister who were martyred together under Maximian for their witness to Christ",
+    "month": 10,
+    "day": 10
+  },
+  {
+    "name": "Apostle Philip the Deacon",
+    "title": "Apostle of the Seventy",
+    "description": "One of the seven deacons who baptized the Ethiopian eunuch and evangelized Samaria",
+    "month": 10,
+    "day": 11
+  },
+  {
+    "name": "Sts. Probus, Tarachus, and Andronicus",
+    "title": "Martyrs",
+    "description": "Three Christians martyred at Anazarbus in Cilicia under the emperor Diocletian",
+    "month": 10,
+    "day": 12
+  },
+  {
+    "name": "Sts. Carpus, Papylus, and Agathodorus",
+    "title": "Martyrs",
+    "description": "Bishop, deacon, and servant who were martyred together at Pergamum under the emperor Decius",
+    "month": 10,
+    "day": 13
+  },
+  {
+    "name": "Sts. Nazarius, Gervasius, Protasius, and Celsus",
+    "title": "Martyrs",
+    "description": "Four early martyrs of Milan whose relics were discovered by St. Ambrose",
+    "month": 10,
+    "day": 14
+  },
+  {
+    "name": "St. Lucian of Antioch",
+    "title": "Hieromartyr",
+    "description": "Presbyter of Antioch and biblical scholar who was martyred under the emperor Maximian",
+    "month": 10,
+    "day": 15
+  },
+  {
+    "name": "St. Longinus the Centurion",
+    "title": "Martyr",
+    "description": "Roman soldier who pierced Christ's side with a lance and later converted and was martyred",
+    "month": 10,
+    "day": 16
+  },
+  {
+    "name": "Prophet Hosea",
+    "title": "Prophet",
+    "description": "One of the twelve minor prophets whose marriage symbolized God's covenant love for Israel",
+    "month": 10,
+    "day": 17
   },
   {
     "name": "Apostle and Evangelist Luke",
@@ -581,11 +2079,32 @@
     "day": 18
   },
   {
+    "name": "Prophet Joel",
+    "title": "Prophet",
+    "description": "One of the twelve minor prophets who prophesied the outpouring of the Holy Spirit on all flesh",
+    "month": 10,
+    "day": 19
+  },
+  {
     "name": "St. Gerasimos of Cephalonia",
     "title": "Venerable",
     "description": "Patron saint of the island of Cephalonia, renowned ascetic and wonderworker of the sixteenth century",
     "month": 10,
     "day": 20
+  },
+  {
+    "name": "St. Hilarion the Great",
+    "title": "Venerable",
+    "description": "Disciple of St. Anthony the Great who brought monasticism to Palestine and worked many miracles",
+    "month": 10,
+    "day": 21
+  },
+  {
+    "name": "St. Abercius of Hierapolis",
+    "title": "Bishop, Equal-to-the-Apostles",
+    "description": "Second-century bishop whose missionary journeys extended from Rome to Persia",
+    "month": 10,
+    "day": 22
   },
   {
     "name": "Apostle James the Brother of the Lord",
@@ -595,6 +2114,20 @@
     "day": 23
   },
   {
+    "name": "St. Arethas and the Martyrs of Najran",
+    "title": "Martyrs",
+    "description": "Leader of the Christians of Najran who were massacred for refusing to renounce Christ",
+    "month": 10,
+    "day": 24
+  },
+  {
+    "name": "Sts. Marcian and Martyrios",
+    "title": "Martyrs",
+    "description": "Notaries of the Patriarch of Constantinople who were martyred by the Arians for defending Orthodoxy",
+    "month": 10,
+    "day": 25
+  },
+  {
     "name": "St. Demetrios the Great Martyr",
     "title": "Myrrh-streamer",
     "description": "Patron saint of Thessaloniki, military saint whose relics streamed with fragrant myrrh",
@@ -602,11 +2135,88 @@
     "day": 26
   },
   {
+    "name": "St. Nestor the Martyr",
+    "title": "Martyr",
+    "description": "Companion of St. Demetrios who slew the pagan champion Lyaeus and was martyred in Thessaloniki",
+    "month": 10,
+    "day": 27
+  },
+  {
+    "name": "Sts. Terence and Neonilla",
+    "title": "Martyrs",
+    "description": "Married couple who were martyred along with their seven children under the emperor Decius",
+    "month": 10,
+    "day": 28
+  },
+  {
+    "name": "St. Anastasia the Roman",
+    "title": "Martyr",
+    "description": "Noble Roman woman who was martyred for ministering to Christians imprisoned under Diocletian",
+    "month": 10,
+    "day": 29
+  },
+  {
+    "name": "St. Zenobius and St. Zenobia",
+    "title": "Martyrs",
+    "description": "Brother and sister physicians who healed without charge and were martyred for their Christian faith",
+    "month": 10,
+    "day": 30
+  },
+  {
+    "name": "Apostles Stachys, Amplias, and Companions",
+    "title": "Apostles of the Seventy",
+    "description": "Disciples of the Apostle Paul mentioned in his Epistle to the Romans, who served as bishops",
+    "month": 10,
+    "day": 31
+  },
+  {
     "name": "Sts. Cosmas and Damian of Asia",
     "title": "Unmercenaries, Wonderworkers",
     "description": "The Unmercenary Healers of Asia who practiced medicine without charge as a witness to Christ",
     "month": 11,
     "day": 1
+  },
+  {
+    "name": "Sts. Acindynus, Pegasius, and Companions",
+    "title": "Martyrs",
+    "description": "Persian martyrs who suffered under King Shapur II for refusing to worship the sun and fire",
+    "month": 11,
+    "day": 2
+  },
+  {
+    "name": "Sts. Acepsimas, Joseph, and Aeithalas",
+    "title": "Martyrs",
+    "description": "Bishop, priest, and deacon who were martyred in Persia under King Shapur II",
+    "month": 11,
+    "day": 3
+  },
+  {
+    "name": "St. Joannicius the Great",
+    "title": "Venerable",
+    "description": "Former soldier who became a great ascetic of Mount Olympus, defender of the holy icons and wonderworker",
+    "month": 11,
+    "day": 4
+  },
+  {
+    "name": "Sts. Galaction and Episteme",
+    "title": "Martyrs",
+    "description": "Husband and wife who lived in monastic separation and were martyred together under the emperor Decius",
+    "month": 11,
+    "day": 5
+  },
+  {
+    "name": "St. Paul the Confessor",
+    "title": "Archbishop of Constantinople",
+    "description": "Orthodox patriarch who suffered exile three times for defending the Nicene faith against the Arians",
+    "month": 11,
+    "day": 6
+  },
+  {
+    "name": "Thirty-Three Martyrs of Melitene",
+    "title": "Martyrs",
+    "description": "Christian soldiers who refused to offer sacrifice to idols and were martyred in Armenia",
+    "month": 11,
+    "day": 7
   },
   {
     "name": "Synaxis of the Archangel Michael and All Bodiless Powers",
@@ -623,6 +2233,27 @@
     "day": 9
   },
   {
+    "name": "Apostles Erastus, Olympas, and Companions",
+    "title": "Apostles of the Seventy",
+    "description": "Companions of the Apostle Paul who served as bishops and evangelized the Mediterranean world",
+    "month": 11,
+    "day": 10
+  },
+  {
+    "name": "St. Theodore the Studite",
+    "title": "Venerable, Confessor",
+    "description": "Great monastic reformer and defender of the holy icons who suffered exile for the Orthodox faith",
+    "month": 11,
+    "day": 11
+  },
+  {
+    "name": "St. John the Merciful",
+    "title": "Patriarch of Alexandria",
+    "description": "Renowned for his extraordinary charity to the poor and his humble compassion for all in need",
+    "month": 11,
+    "day": 12
+  },
+  {
     "name": "St. John Chrysostom",
     "title": "Archbishop of Constantinople",
     "description": "The greatest preacher of the Church, one of the Three Holy Hierarchs, author of the most widely used Divine Liturgy",
@@ -637,11 +2268,74 @@
     "day": 14
   },
   {
+    "name": "Sts. Gurias, Samonas, and Abibus",
+    "title": "Martyrs",
+    "description": "Martyrs of Edessa who are invoked as protectors of marriage and were renowned for posthumous miracles",
+    "month": 11,
+    "day": 15
+  },
+  {
     "name": "Apostle and Evangelist Matthew",
     "title": "Apostle, Evangelist",
     "description": "Former tax collector called by Christ, author of the first Gospel, who preached to the Hebrews and Ethiopians",
     "month": 11,
     "day": 16
+  },
+  {
+    "name": "St. Gregory the Wonderworker",
+    "title": "Bishop of Neo-Caesarea",
+    "description": "Third-century bishop who converted nearly his entire city through countless miracles and evangelistic fervor",
+    "month": 11,
+    "day": 17
+  },
+  {
+    "name": "Sts. Plato and Romanus",
+    "title": "Martyrs",
+    "description": "Martyrs who witnessed boldly for Christ and suffered under the emperor Diocletian",
+    "month": 11,
+    "day": 18
+  },
+  {
+    "name": "Prophet Obadiah",
+    "title": "Prophet",
+    "description": "One of the twelve minor prophets who prophesied against Edom and the deliverance of Israel",
+    "month": 11,
+    "day": 19
+  },
+  {
+    "name": "St. Gregory the Decapolite",
+    "title": "Venerable",
+    "description": "Monk and missionary who traveled throughout the empire defending the veneration of holy icons",
+    "month": 11,
+    "day": 20
+  },
+  {
+    "name": "Entry of the Most Holy Theotokos into the Temple",
+    "title": "Great Feast",
+    "description": "Commemoration of the three-year-old Virgin Mary being presented in the Temple and dwelling in the Holy of Holies",
+    "month": 11,
+    "day": 21
+  },
+  {
+    "name": "Apostle Philemon and Companions",
+    "title": "Apostles of the Seventy",
+    "description": "Recipient of St. Paul's epistle who hosted the Church in his house and was later martyred",
+    "month": 11,
+    "day": 22
+  },
+  {
+    "name": "St. Amphilochius of Iconium",
+    "title": "Bishop",
+    "description": "Cappadocian Father and champion of Nicene Orthodoxy, cousin of St. Gregory the Theologian",
+    "month": 11,
+    "day": 23
+  },
+  {
+    "name": "St. Clement of Rome",
+    "title": "Hieromartyr",
+    "description": "Third successor of the Apostle Peter as Bishop of Rome, author of an epistle to the Corinthians, martyred by drowning",
+    "month": 11,
+    "day": 24
   },
   {
     "name": "St. Catherine the Great Martyr",
@@ -651,11 +2345,60 @@
     "day": 25
   },
   {
+    "name": "St. Alypius the Stylite",
+    "title": "Venerable",
+    "description": "Pillar saint of Paphlagonia who spent fifty-three years standing on a pillar in prayer",
+    "month": 11,
+    "day": 26
+  },
+  {
+    "name": "St. James the Persian",
+    "title": "Great Martyr",
+    "description": "Persian nobleman who was cut limb from limb for returning to the Christian faith",
+    "month": 11,
+    "day": 27
+  },
+  {
+    "name": "St. Stephen the New",
+    "title": "Venerable Martyr",
+    "description": "Monastic confessor and martyr who defended the veneration of holy icons during the iconoclast persecution",
+    "month": 11,
+    "day": 28
+  },
+  {
+    "name": "Sts. Paramon and Philoumenos",
+    "title": "Martyrs",
+    "description": "Martyrs who suffered under the emperor Decius for refusing to sacrifice to idols",
+    "month": 11,
+    "day": 29
+  },
+  {
     "name": "St. Andrew the First-Called",
     "title": "Apostle",
     "description": "First-called of the apostles, patron of the Ecumenical Patriarchate, who preached along the Black Sea and in Greece",
     "month": 11,
     "day": 30
+  },
+  {
+    "name": "Prophet Nahum",
+    "title": "Prophet",
+    "description": "One of the twelve minor prophets who prophesied the fall of Nineveh and God's judgment on evil",
+    "month": 12,
+    "day": 1
+  },
+  {
+    "name": "Prophet Habakkuk",
+    "title": "Prophet",
+    "description": "One of the twelve minor prophets who questioned God's justice and received the answer that the righteous shall live by faith",
+    "month": 12,
+    "day": 2
+  },
+  {
+    "name": "Prophet Zephaniah",
+    "title": "Prophet",
+    "description": "One of the twelve minor prophets who prophesied the Day of the Lord and the restoration of His people",
+    "month": 12,
+    "day": 3
   },
   {
     "name": "St. Barbara the Great Martyr",
@@ -679,11 +2422,39 @@
     "day": 6
   },
   {
+    "name": "St. Ambrose of Milan",
+    "title": "Bishop",
+    "description": "Great Latin Father who baptized St. Augustine and defended the Church's independence from the state",
+    "month": 12,
+    "day": 7
+  },
+  {
+    "name": "St. Patapius of Thebes",
+    "title": "Venerable",
+    "description": "Egyptian hermit who later moved to Constantinople where his relics work miracles to this day",
+    "month": 12,
+    "day": 8
+  },
+  {
     "name": "Conception of the Theotokos by St. Anna",
     "title": "Feast of the Theotokos",
     "description": "Commemoration of the miraculous conception of the Most Holy Theotokos by the righteous Joachim and Anna",
     "month": 12,
     "day": 9
+  },
+  {
+    "name": "Sts. Menas, Hermogenes, and Eugraphus",
+    "title": "Martyrs",
+    "description": "Three martyrs of Alexandria who were converted by each other's witness and martyred together",
+    "month": 12,
+    "day": 10
+  },
+  {
+    "name": "St. Daniel the Stylite",
+    "title": "Venerable",
+    "description": "Disciple of St. Simeon Stylites who spent thirty-three years atop a pillar near Constantinople",
+    "month": 12,
+    "day": 11
   },
   {
     "name": "St. Spyridon the Wonderworker",
@@ -700,11 +2471,25 @@
     "day": 13
   },
   {
+    "name": "Sts. Thyrsus, Leucius, and Callinicus",
+    "title": "Martyrs",
+    "description": "Three martyrs of Caesarea in Bithynia who suffered under the emperor Decius for confessing Christ",
+    "month": 12,
+    "day": 14
+  },
+  {
     "name": "St. Eleftherios the Hieromartyr",
     "title": "Hieromartyr",
     "description": "Bishop of Illyria martyred under the emperor Hadrian, widely venerated throughout Greece",
     "month": 12,
     "day": 15
+  },
+  {
+    "name": "Prophet Haggai",
+    "title": "Prophet",
+    "description": "One of the twelve minor prophets who encouraged the rebuilding of the Temple after the Babylonian exile",
+    "month": 12,
+    "day": 16
   },
   {
     "name": "Prophet Daniel and the Three Holy Youths",
@@ -714,6 +2499,20 @@
     "day": 17
   },
   {
+    "name": "St. Sebastian and Companions",
+    "title": "Martyrs",
+    "description": "Roman military officer who was martyred for his secret Christian faith under the emperor Diocletian",
+    "month": 12,
+    "day": 18
+  },
+  {
+    "name": "St. Boniface of Tarsus",
+    "title": "Martyr",
+    "description": "Former dissolute servant who repented and was martyred while retrieving the relics of martyrs",
+    "month": 12,
+    "day": 19
+  },
+  {
     "name": "St. Ignatius the God-bearer",
     "title": "Hieromartyr, Bishop of Antioch",
     "description": "Apostolic Father and third bishop of Antioch, fed to the lions in Rome, whose letters shaped early Church theology",
@@ -721,11 +2520,39 @@
     "day": 20
   },
   {
+    "name": "St. Juliana of Nicomedia",
+    "title": "Great Martyr",
+    "description": "Virgin martyr who refused marriage to a pagan and endured terrible tortures under Maximian",
+    "month": 12,
+    "day": 21
+  },
+  {
     "name": "St. Anastasia the Great Martyr",
     "title": "Deliverer from Potions",
     "description": "Healer who ministered to imprisoned Christians, called Deliverer from Potions for her healing gifts",
     "month": 12,
     "day": 22
+  },
+  {
+    "name": "The Ten Holy Martyrs of Crete",
+    "title": "Martyrs",
+    "description": "Ten Christian men who were martyred together in Crete under the emperor Decius",
+    "month": 12,
+    "day": 23
+  },
+  {
+    "name": "St. Eugenia the Martyr",
+    "title": "Venerable Martyr",
+    "description": "Roman noblewoman who disguised herself as a monk and later revealed her identity before being martyred",
+    "month": 12,
+    "day": 24
+  },
+  {
+    "name": "Nativity of Our Lord Jesus Christ",
+    "title": "Great Feast",
+    "description": "The birth of Jesus Christ, the Son of God, from the Virgin Mary in Bethlehem",
+    "month": 12,
+    "day": 25
   },
   {
     "name": "Synaxis of the Theotokos",
@@ -740,5 +2567,33 @@
     "description": "The first Christian martyr, one of the seven deacons, who was stoned to death while praying for his persecutors",
     "month": 12,
     "day": 27
+  },
+  {
+    "name": "The Twenty Thousand Martyrs of Nicomedia",
+    "title": "Martyrs",
+    "description": "Christians who perished when the emperor Maximian set fire to the church where they had gathered",
+    "month": 12,
+    "day": 28
+  },
+  {
+    "name": "The Holy Innocents",
+    "title": "Martyrs",
+    "description": "The fourteen thousand children slain in Bethlehem by King Herod in his attempt to kill the newborn Christ",
+    "month": 12,
+    "day": 29
+  },
+  {
+    "name": "St. Anysia of Thessaloniki",
+    "title": "Martyr",
+    "description": "Virgin martyr of Thessaloniki who was killed by a pagan soldier during the persecution of Maximian",
+    "month": 12,
+    "day": 30
+  },
+  {
+    "name": "St. Melania the Roman",
+    "title": "Venerable",
+    "description": "Wealthy Roman noblewoman who gave away her fortune and established monasteries in Jerusalem",
+    "month": 12,
+    "day": 31
   }
 ]
