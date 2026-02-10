@@ -15,10 +15,21 @@ func main() {
 	dateFlag := flag.String("date", "", "Date to display in YYYY-MM-DD format (defaults to today)")
 	simpleFlag := flag.Bool("simple", false, "One-liner output suitable for piping or status bars")
 	monthFlag := flag.Bool("month", false, "Show monthly calendar grid")
+	browseFlag := flag.Bool("browse", false, "Interactive calendar browser")
 	flag.Parse()
 
-	if *simpleFlag && *monthFlag {
-		fmt.Fprintf(os.Stderr, "Error: --simple and --month are mutually exclusive\n")
+	modeCount := 0
+	if *simpleFlag {
+		modeCount++
+	}
+	if *monthFlag {
+		modeCount++
+	}
+	if *browseFlag {
+		modeCount++
+	}
+	if modeCount > 1 {
+		fmt.Fprintf(os.Stderr, "Error: --simple, --month, and --browse are mutually exclusive\n")
 		os.Exit(1)
 	}
 
@@ -45,6 +56,12 @@ func main() {
 	cal := calendar.New(d)
 
 	switch {
+	case *browseFlag:
+		if err := display.Browse(cal.GetDayInfo, date); err != nil {
+			fmt.Fprintf(os.Stderr, "Error: %v\n", err)
+			os.Exit(1)
+		}
+
 	case *simpleFlag:
 		info := cal.GetDayInfo(date)
 		display.PrintSimple(info)

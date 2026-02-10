@@ -6,6 +6,7 @@ orthoCal \- Greek Orthodox liturgical calendar
 [\fB\-date\fR \fIYYYY-MM-DD\fR]
 [\fB\-simple\fR]
 [\fB\-month\fR]
+[\fB\-browse\fR]
 .SH DESCRIPTION
 .B orthoCal
 displays Greek Orthodox liturgical information for a given date, including
@@ -25,6 +26,11 @@ Format: "Day Mon DD | Icon Fast | Feast/Saint | Gospel"
 .TP
 .BR \-month
 Display a monthly calendar grid showing fasting levels and feasts for each day.
+.TP
+.BR \-browse
+Interactive calendar browser. Navigate with arrow keys (day/week), n/p (month),
+t (jump to today), q (quit). The selected day's full liturgical information is
+shown below the calendar grid.
 .SH OUTPUT
 The default output is a formatted box containing:
 .TP
@@ -86,6 +92,14 @@ Show April 2026 calendar:
 .RS
 .nf
 orthoCal --month -date 2026-04-01
+.fi
+.RE
+.PP
+Interactive browse mode:
+.PP
+.RS
+.nf
+orthoCal --browse
 .fi
 .RE
 .SH LECTIONARY

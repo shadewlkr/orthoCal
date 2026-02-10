@@ -8,7 +8,7 @@ A command-line Greek Orthodox liturgical calendar that displays daily fasting ru
 go build -o orthoCal
 ```
 
-Requires Go 1.16+ (uses embedded data files).
+Requires Go 1.18+ (uses embedded data files and `golang.org/x/term`).
 
 ## Usage
 
@@ -23,6 +23,7 @@ orthoCal [options]
 | `-date YYYY-MM-DD` | Display information for a specific date (default: today) |
 | `-simple` | One-line output suitable for scripts, status bars, or shell prompts |
 | `-month` | Display a monthly calendar grid |
+| `-browse` | Interactive calendar browser with keyboard navigation |
 
 ### Examples
 
@@ -47,6 +48,13 @@ orthoCal [options]
 ./orthoCal --month
 ./orthoCal --month -date 2026-04-01
 ```
+
+**Interactive browse mode:**
+```bash
+./orthoCal --browse
+./orthoCal --browse -date 2026-04-01
+```
+Use arrow keys to navigate days, `n`/`p` to change month, `t` to jump to today, `q` to quit.
 
 ## Output Sections
 
